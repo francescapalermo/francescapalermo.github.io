@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesca Palermo"
-  avatar           : "photo.jpg"
+  avatar           : "profile_fra.jpg" #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "London, UK"
   employer         :
