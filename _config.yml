@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Francesca Palermo"
   avatar           : "profile_fra.jpg" #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "London, UK"
-  employer         :
+  employer         : "Queen Mary University of London"
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Francesca_Palermo"
+  email            : "f.palermo@qmul.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Francesca_Palermo"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/francesca-palermo-a9107a40/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC03_8l-US-ecKpsMeaTcSGw"
   wikipedia        :
 
 
