@@ -84,7 +84,7 @@ author:
   avatar           : "profile_fra_reduced.jpg" #"profile.png"
   bio              : ""
   location         : "London, UK"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl=en"
   email            : "f.palermo@qmul.ac.uk"
