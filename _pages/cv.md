@@ -28,13 +28,13 @@ Work experience
 * July 2017 - June 2018: Research Assistant
   * HES-SO Haute école spécialisée de Suisse occidentale
   * Duties included: 
-		1. Develop an augmented reality environment in Unity using Microsoft Hololens and Myo. It will allow amputees
+    1. Develop an augmented reality environment in Unity using Microsoft Hololens and Myo. It will allow amputees
 to receive a visual feedback during the training of the arm prosthesis (conference paper in development). 
-		2. Analyze the repeatability of hand movement recognition for control of robotic prosthesis based on sEMG data
+    2. Analyze the repeatability of hand movement recognition for control of robotic prosthesis based on sEMG data
 using a database of 100 acquisitions (journal paper in development). 
-		3. Use machine learning technique to study different features of CT lung images of two big datasets to find common pattern that could predict
+    3. Use machine learning technique to study different features of CT lung images of two big datasets to find common pattern that could predict
 cancer. 
-		4. Implement in Java a 3D version of the texture snake developed by the Biomedical Imaging Group of
+    4. Implement in Java a 3D version of the texture snake developed by the Biomedical Imaging Group of
 EPFL and render it in augmented relity using Microsoft Hololens.
   * Supervisor: [Professor Henning Müller](https://www.hevs.ch/en/rad-institutes/institute-of-information-systems/collaborateurs/professor-uas/muller-1609)
   
