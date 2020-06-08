@@ -18,7 +18,7 @@ detect cracks and determine their width.'
 date: 2020-06-01
 venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: ''
-citation: 'Palermo, Francesca. (2019). "Implementing Tactile and Proximity Sensing for Crack Detection
+citation: 'Palermo, Francesca. (2020). "Implementing Tactile and Proximity Sensing for Crack Detection
 " <i>2020 IEEE International Conference on Robotics and Automation (ICRA)</i>'
 ---
 Remote characterisation of the environment during physical robot-environment interaction is an important task

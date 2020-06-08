@@ -17,6 +17,8 @@ Education
   * Repeatability of grasp recognition for robotic hand control based on sEMG data
 * B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome, Italy, Italian Mark 95/110, 2010-2014
   * Studio e modelli di reti fondate su modelli neurali completi
+
+
 Work experience
 ======
 * September 2018 - Current: Student Demonstrator
