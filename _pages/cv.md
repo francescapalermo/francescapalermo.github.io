@@ -52,7 +52,7 @@ and Technology, February 2020.
 * Award for best Master Thesis on disability, University of Rome "La Sapienza".
 
 * Programmer Award, VVV18, February 2018.
-  *Best group project award for the VVV18 International Winter School on Humanoid Robot Programming organized by IIT iCub Facility and IEEE Robotics and Automation Society
+  * Best group project award for the VVV18 International Winter School on Humanoid Robot Programming organized by IIT iCub Facility and IEEE Robotics and Automation Society
 
 * Travel grant, VVV18, February 2018.
   * VVV18 travel grant for the International Winter School on Humanoid Robot Programming
