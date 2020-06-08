@@ -7,9 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello Everyone! 
-I am Francesca Palermo and I am a PhD student in Electronics Engineer and Robotics at Queen Mary University of London in the [HAIR robotics Lab](https://hair-robotics.qmul.ac.uk/) and [ARQ lab](https://www.qmul.ac.uk/robotics/) 
-
+Hello Everyone!<br/>
+I am Francesca Palermo and I am a PhD student (2018-now) in Electronics Engineer and Robotics
+at the School of Electronics Engineering and Computer Science, Queen Mary University of London, London, United Kingdom.
+My Ph.D. is sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR) .<br/> 
+I am a meber of the [HAIR robotics Lab](https://hair-robotics.qmul.ac.uk/) 
+and [ARQ lab](https://www.qmul.ac.uk/robotics/) 
+run by [Prof. Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) .<br/> 
+My main research interest is developing haptic and vision techniques for clearing nuclear wastage in extreme environment.
+At the moment I am developing a multi-feedback system based on haptic exploration and object detection for fracture recognition in cluttered environments.
 <!---This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
