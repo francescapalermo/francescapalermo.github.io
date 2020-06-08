@@ -46,12 +46,11 @@ Recommended citation: Palermo, Francesca. (2017). "Repeatability of grasp recogn
 
 
 
-| @inproceedings{palermo2017repeatability,
-  title={Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data},
-  author={Palermo, Francesca and Cognolato, Matteo and Gijsberts, Arjan and M{\"u}ller, Henning and Caputo, Barbara and Atzori, Manfredo},
-  booktitle={2017 International Conference on Rehabilitation Robotics (ICORR)},
-  pages={1154--1159},
-  year={2017},
-  organization={IEEE}
-} |
-| --- |
+`@inproceedings{palermo2017repeatability, 
+`  title={Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data},
+`  author={Palermo, Francesca and Cognolato, Matteo and Gijsberts, Arjan and Muller, Henning and Caputo, Barbara and Atzori, Manfredo},
+`  booktitle={2017 International Conference on Rehabilitation Robotics (ICORR)},
+`  pages={1154--1159},
+`  year={2017},
+`  organization={IEEE}
+`}`
