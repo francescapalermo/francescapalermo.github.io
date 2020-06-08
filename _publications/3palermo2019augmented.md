@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "An Augmented Reality Environment to Provide Visual Feedback to Amputees During sEMG Data Acquisitions"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/3palermo2019augmented
+excerpt: 'Myoelectric hand prostheses have the potential to improve the quality of life of hand amputees. Still, the rejection rate of functional prostheses in the adult population is high. One of the causes is the long time for fitting the prosthesis and the lack of feedback during training. Moreover, prosthesis control is often unnatural and requires mental effort during the training. Virtual and augmented reality devices can help to improve these difficulties and reduce phantom limb pain. Amputees can start training the residual limb muscles with a weightless virtual hand earlier than possible with a real prosthesis. When activating the muscles related to a specific grasp, the subjects receive a visual feedback from the virtual hand. To the best of our knowledge, this work presents one of the first portable augmented reality environment for transradial amputees that combines two devices available on the market: the Microsoft HoloLens and the Thalmic labs Myo. In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. By using the virtual hand, the user can move objects in augmented reality and train to activate the right muscles for each movement through visual feedback. The environment presented represents a resource for rehabilitation and for scientists. It helps hand amputees to train using prosthetic hands right after the surgery. Scientists can use the environment to develop real time control experiments, without the logistical disadvantages related to dealing with a real prosthetic hand but with the advantages of a realistic visual feedback.'
+date: 2019-07-03
+venue: '2019 Annual Conference Towards Autonomous Robotic Systems (TAROS)'paperurl: ''
+citation: 'Palermo, Francesca. (2019). "An Augmented Reality Environment to Provide Visual Feedback to Amputees During sEMG Data Acquisitions" <i>2019 Towards Autonomous Robotic Systems (TAROS)</i>'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Myoelectric hand prostheses have the potential to improve the quality of life of hand amputees. Still, the rejection rate of functional prostheses in the adult population is high. One of the causes is the long time for fitting the prosthesis and the lack of feedback during training. Moreover, prosthesis control is often unnatural and requires mental effort during the training. Virtual and augmented reality devices can help to improve these difficulties and reduce phantom limb pain. Amputees can start training the residual limb muscles with a weightless virtual hand earlier than possible with a real prosthesis. When activating the muscles related to a specific grasp, the subjects receive a visual feedback from the virtual hand. To the best of our knowledge, this work presents one of the first portable augmented reality environment for transradial amputees that combines two devices available on the market: the Microsoft HoloLens and the Thalmic labs Myo. In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. By using the virtual hand, the user can move objects in augmented reality and train to activate the right muscles for each movement through visual feedback. The environment presented represents a resource for rehabilitation and for scientists. It helps hand amputees to train using prosthetic hands right after the surgery. Scientists can use the environment to develop real time control experiments, without the logistical disadvantages related to dealing with a real prosthetic hand but with the advantages of a realistic visual feedback.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download complete paper here](https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Bibtext Citation: 
+
+`@inproceedings{palermo2019augmented, title={An augmented reality environment to provide visual feedback to amputees during sEMG Data Acquisitions}, author={Palermo, Francesca and Cognolato, Matteo and Eggel, Ivan and Atzori, Manfredo and M{\"u}ller, Henning}, booktitle={Annual Conference Towards Autonomous Robotic Systems}, pages={3--14}, year={2019}, organization={Springer}}`
+
+![augmented Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/augmented.jpg?raw=true)
