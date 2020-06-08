@@ -43,4 +43,17 @@ several data acquisitions and for different subjects.
 [Download paper here](https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf)
 
 Recommended citation: Palermo, Francesca. (2017). "Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data" <i>2017 International Conference on Rehabilitation Robotics (ICORR)</i>.
--->
+
+---
+**NOTE**
+
+@inproceedings{palermo2017repeatability,
+  title={Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data},
+  author={Palermo, Francesca and Cognolato, Matteo and Gijsberts, Arjan and M{\"u}ller, Henning and Caputo, Barbara and Atzori, Manfredo},
+  booktitle={2017 International Conference on Rehabilitation Robotics (ICORR)},
+  pages={1154--1159},
+  year={2017},
+  organization={IEEE}
+}
+
+---
