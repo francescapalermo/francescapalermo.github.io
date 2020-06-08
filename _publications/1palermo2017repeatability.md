@@ -20,7 +20,8 @@ based on the comparison of movement classification accuracy in
 several data acquisitions and for different subjects.'
 date: 2017-10-01
 venue: '2017 International Conference on Rehabilitation Robotics (ICORR)'
-paperurl: '[HERE](https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf)'
+<!---paperurl: '[HERE](https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf)'
+-->
 citation: 'Palermo, Francesca. (2017). "Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data" <i>2017 International Conference on Rehabilitation Robotics (ICORR)</i>'
 ---
 Control methods based on sEMG obtained
@@ -41,5 +42,6 @@ based on the comparison of movement classification accuracy in
 several data acquisitions and for different subjects.
 
 [Download paper here](https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf)
-
+<!---
 Recommended citation: Palermo, Francesca. (2017). "Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data" <i>2017 International Conference on Rehabilitation Robotics (ICORR)</i>.
+-->
