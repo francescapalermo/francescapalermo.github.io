@@ -11,21 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary
+University of London, London, UK, 2018-now
+* M.Sc. in Artificial Intelligence and Robotics, University of Rome "La Sapienza", Rome, Italy,
+Italian Mark 110/110, 2015-2017
+* B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome,
+Italy, Italian Mark 95/110, 2010-2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 - Current: Student Demonstrator
+  * Queen Mary Univerity of London
+  * Duties included: Marking, Lecture Preparation and Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* July 2017 - June 2018: Research Assistant
+  * HES-SO Haute école spécialisée de Suisse occidentale
+  * Duties included: 
+		1. Develop an augmented reality environment in Unity using Microsoft Hololens and Myo. It will allow amputees
+to receive a visual feedback during the training of the arm prosthesis (conference paper in development). 
+		2. Analyze the repeatability of hand movement recognition for control of robotic prosthesis based on sEMG data
+using a database of 100 acquisitions (journal paper in development). 
+		3. Use machine learning technique to study different features of CT lung images of two big datasets to find common pattern that could predict
+cancer. 
+		4. Implement in Java a 3D version of the texture snake developed by the Biomedical Imaging Group of
+EPFL and render it in augmented relity using Microsoft Hololens.
+  * Supervisor: [Professor Henning Müller](https://www.hevs.ch/en/rad-institutes/institute-of-information-systems/collaborateurs/professor-uas/muller-1609)
   
 Skills
 ======
