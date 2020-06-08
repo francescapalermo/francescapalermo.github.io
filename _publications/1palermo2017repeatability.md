@@ -46,4 +46,4 @@ Bibtext Citation:
 
 `@inproceedings{palermo2017repeatability, title={Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data},author={Palermo, Francesca and Cognolato, Matteo and Gijsberts, Arjan and Muller, Henning and Caputo, Barbara and Atzori, Manfredo},booktitle={2017 International Conference on Rehabilitation Robotics (ICORR)},pages={1154--1159},year={2017}, organization={IEEE}}`
 
-![Alt text](D:/Github_workspace/francescapalermo.github.io/_publications/repeatability.jpg)
+![Alt text](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/repeatability.jpg)
