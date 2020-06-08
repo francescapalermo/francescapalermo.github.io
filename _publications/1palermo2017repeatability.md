@@ -3,7 +3,7 @@ title: "Repeatability of grasp recognition for robotic hand prosthesis control b
 collection: publications
 permalink: /publication/1palermo2017repeatability
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017
+date: 2017-10-01
 venue: '2017 International Conference on Rehabilitation Robotics (ICORR)'
 paperurl: 'https://www.researchgate.net/profile/Henning_Mueller2/publication/323735768_Repeatability_of_grasp_recognition_for_robotic_hand_prosthesis_control_based_on_sEMG_data/links/5aab655845851517881b57ee/Repeatability-of-grasp-recognition-for-robotic-hand-prosthesis-control-based-on-sEMG-data.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
