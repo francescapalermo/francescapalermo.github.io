@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary
-University of London, London, UK, 2018-now
-* M.Sc. in Artificial Intelligence and Robotics, University of Rome "La Sapienza", Rome, Italy,
-Italian Mark 110/110, 2015-2017
-* B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome,
-Italy, Italian Mark 95/110, 2010-2014
-
+* Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-now
+  * Investigation of new Haptic Simultaneous Localisation and Mapping (SLAM) Sensor Systems and Data Analytics for Robotics.
+* M.Sc. in Artificial Intelligence and Robotics, University of Rome "La Sapienza", Rome, Italy, Italian Mark 110/110, 2015-2017
+  * Repeatability of grasp recognition for robotic hand control based on sEMG data
+* B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome, Italy, Italian Mark 95/110, 2010-2014
+  * Studio e modelli di reti fondate su modelli neurali completi
 Work experience
 ======
 * September 2018 - Current: Student Demonstrator
@@ -62,16 +61,19 @@ and Technology, February 2020.
 
 Abroad Experiences
 ======
-*Internship, Tokyo University of Agriculture and Technology (TUAT), Tokyo, Japan, February - May 2020.
-  *Internship at the laboratory of [Professor Gentiane Venture](http://web.tuat.ac.jp/~gvlab/) . Develop multimodal fusion model with visual and force feedback for surface recognition in extreme environments
+* Internship, Tokyo University of Agriculture and Technology (TUAT), Tokyo, Japan, February - May 2020.
+  * Internship at the laboratory of [Professor Gentiane Venture](http://web.tuat.ac.jp/~gvlab/) . Develop multimodal fusion model with visual and force feedback for surface recognition in extreme environments
 
 * Student Volunteer for the 2019th World Haptics Conference, Tokyo, Japan, July 2019
 
 * Winter School on Robotics, Winter School on Humanoid Robot Programming organized by IIT iCub Facility and IEEE Robotics and Automation Society, Santa Margherita Ligure, Italy.
-  *The aim of this school is to give students an overview of the state-of-the-art on the broad field of robotics and teach them the required, practical, skills that allow them to program robots taking advantage of available tools and libraries for perception, control and machine learning.
+  * The aim of this school is to give students an overview of the state-of-the-art on the broad field of robotics and teach them the required, practical, skills that allow them to program robots taking advantage of available tools and libraries for perception, control and machine learning.
 
 * Internship, HES-SO Haute école spécialisée de Suisse occidentale, Sierre, Switzerland, October 2016-January 2017.
-  *Collaboration to the project NinaPro (myolectric hand prosthesis)
+  * Collaboration to the project NinaPro (myolectric hand prosthesis)
 
 * Summer School on Robotics, Tohoku University Engineering Summer Program, Sendai, Japan, August 2015.
-  *A two-week international "hands-on" Summer School in Robotics - a series of lectures by some of the biggest names from the Graduate Schools of Engineering, Information Sciences and Biomedical Engineering
+  * A two-week international "hands-on" Summer School in Robotics - a series of lectures by some of the biggest names from the Graduate Schools of Engineering, Information Sciences and Biomedical Engineering
+  
+  
+ For an updated CV please click [here](https://www.dropbox.com/s/nht7f1bnza0vllp/Curriculum%20Vitae%20Francesca%20Palermo.pdf?dl=0)
