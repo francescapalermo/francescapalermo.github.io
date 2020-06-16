@@ -2,7 +2,7 @@
 title: "Implementing Tactile and Proximity Sensing for Crack Detection
 "
 collection: publications
-permalink: /publication/4palermo2020ICRA
+permalink: /publication/palermo2020ICRA
 excerpt: 'Remote characterisation of the environment during physical robot-environment interaction is an important task
 commonly accomplished in telerobotics. This paper demonstrates how tactile and proximity sensing can be efficiently
 used to perform automatic crack detection. A custom-designed

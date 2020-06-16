@@ -1,7 +1,7 @@
 ---
 title: "Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data"
 collection: publications
-permalink: /publication/1palermo2017repeatability
+permalink: /publication/palermo2017repeatability
 excerpt: 'Control methods based on sEMG obtained
 promising results for hand prosthetics. 
 Control system robustness is still often inadequate and does not allow the amputees
