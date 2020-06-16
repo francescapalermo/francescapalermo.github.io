@@ -40,4 +40,9 @@ Bibtext Citation:
 
 `@inproceedings{palermo2020crack, title={Implementing Tactile and Proximity Sensing for Crack Detection}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)}, pages={}, year={2020}, organization={IEEE}}`
 
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=EMC9P016eao">
+</iframe>
+
 ![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/crack_detection.jpg?raw=true)
