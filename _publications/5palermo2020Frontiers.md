@@ -33,7 +33,7 @@ employed sensing devices, such as standard force sensors based on strain gauges 
 
 Bibtext Citation: 
 
-`@inproceedings{palermo2020crack, title={Implementing Tactile and Proximity Sensing for Crack Detection}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)}, pages={}, year={2020}, organization={IEEE}}`
+`@article{palermo2020automatic, title={Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, journal={Frontiers in Robotics and AI}, volume={7}, year={2020}, publisher={Frontiers Media SA}}`
 
 
 <iframe width="420" height="315"
