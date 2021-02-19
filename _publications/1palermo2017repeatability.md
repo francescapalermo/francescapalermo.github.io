@@ -2,14 +2,7 @@
 title: "Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data"
 collection: publications
 permalink: /publication/palermo2017repeatability
-excerpt: 'Control methods based on sEMG obtained
-promising results for hand prosthetics. 
-Control system robustness is still often inadequate and does not allow the amputees
-to perform a large number of movements useful for everyday
-life. 
-Only few studies analyzed the repeatability of sEMG 
-classification of hand grasps. 
-The main goals of this paper
+excerpt: 'The main goals of this paper
 are to explore repeatability in sEMG data and to release a
 repeatability database with the recorded experiments. 
 The data are recorded from 10 intact subjects repeating 7 grasps 12
