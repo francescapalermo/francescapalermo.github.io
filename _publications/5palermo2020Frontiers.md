@@ -28,6 +28,7 @@ In contrast to previous techniques, which mainly rely on visual modality, the pr
 suitable for operation in extreme environments (such as nuclear facilities) where radiation may damage electronic components of commonly 
 employed sensing devices, such as standard force sensors based on strain gauges and video cameras.
 
+[Download complete paper here](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
 
 
 Bibtext Citation: 
@@ -36,7 +37,7 @@ Bibtext Citation:
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/UEqlDOTNtKc"> 
+src="https://www.youtube.com/embed/EMC9P016eao"> 
 </iframe>
 
-![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/crack_detection_multi.png?raw=true)
+![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/frontiers_2020.png?raw=true)
