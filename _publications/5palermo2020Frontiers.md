@@ -40,4 +40,4 @@ Bibtext Citation:
 src="https://www.youtube.com/embed/EMC9P016eao">
 </iframe>
 
-![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/crack_detection.jpg?raw=true)
+![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/frontiers_2020.png?raw=true)
