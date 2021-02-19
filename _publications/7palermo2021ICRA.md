@@ -9,7 +9,7 @@ which is then followed by automatic tactile inspection of the surfaces. Faster R
 Random forest classifier is used for tactile identification of the cracks to confirm their presences. 
 Offline and online experiments to compare vision only and combined vision and tactile based crack detection are demonstrated. 
 '
-date: 2021
+date: 2021-06-01
 venue: 'ICRA 2021 -- Submitted'
 paperurl: ''
 citation: ''
