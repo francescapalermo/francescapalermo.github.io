@@ -3,15 +3,11 @@ title: "Automatic Fracture Characterization Using Tactile and Proximity Optical 
 "
 collection: publications
 permalink: /publication/palermo2020Frontiers
-excerpt: 'This paper demonstrates how tactile and proximity sensing can be used to perform automatic mechanical fractures detection (surface cracks). 
-For this purpose, a custom-designed integrated tactile and proximity sensor has been implemented. With the help of fiber optics, 
-the sensor measures the deformation of its body, when interacting with the physical environment, and the distance to the environment objects. 
-This sensor slides across different surfaces and records data which are then analyzed to detect and classify fractures and other mechanical features. 
+excerpt: 'This paper demonstrates an updated implementation of the previous ICRA paper.  
+A custom-designed integrated tactile and proximity sensor has been implemented. 
 The proposed method implements machine learning techniques (handcrafted features, and state of the art classification algorithms). 
 A real-time classification method has been implemented for online classification of explored surfaces. 
-In contrast to previous techniques, which mainly rely on visual modality, the proposed approach based on optical fibers might be more 
-suitable for operation in extreme environments (such as nuclear facilities) where radiation may damage electronic components of commonly 
-employed sensing devices, such as standard force sensors based on strain gauges and video cameras.'
+'
 date: 2020-12-02
 venue: 'Frontiers Robotics and AI'
 paperurl: ''
