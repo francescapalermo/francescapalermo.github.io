@@ -1,42 +1,48 @@
 ---
-title: "Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing
+title: "Implementing Tactile and Proximity Sensing for Crack Detection
 "
 collection: publications
-permalink: /publication/palermo2020Frontiers
-excerpt: 'This paper demonstrates how tactile and proximity sensing can be used to perform automatic mechanical fractures detection (surface cracks). 
-For this purpose, a custom-designed integrated tactile and proximity sensor has been implemented. With the help of fiber optics, the sensor measures the deformation of its body,
- when interacting with the physical environment, and the distance to the environment's objects. This sensor slides across different 
- surfaces and records data which are then analyzed to detect and classify fractures and other mechanical features. 
- The proposed method implements machine learning techniques (handcrafted features, and state of the art classification algorithms). 
- A real-time classification method has been implemented for online classification of explored surfaces. 
- In contrast to previous techniques, which mainly rely on visual modality, the proposed approach based on optical 
- fibers might be more suitable for operation in extreme environments (such as nuclear facilities) where radiation may damage electronic 
- components of commonly employed sensing devices, such as standard force sensors based on strain gauges and video cameras.'
-date: 2020-12-02
-venue: 'Frontiers Robotics and AI'
+permalink: /publication/palermo2020ICRA
+excerpt: 'Remote characterisation of the environment during physical robot-environment interaction is an important task
+commonly accomplished in telerobotics. This paper demonstrates how tactile and proximity sensing can be efficiently
+used to perform automatic crack detection. A custom-designed
+integrated tactile and proximity sensor is implemented. It
+measures the deformation of its body when interacting with the
+physical environment and distance to the environment’s objects
+with the help of fibre optics. This sensor was used to slide across
+different surfaces and the data recorded during the experiments
+was used to detect and classify cracks, bumps and undulations.
+The proposed method uses machine learning techniques (mean
+absolute value as feature and random forest as classifier) to
+detect cracks and determine their width.'
+date: 2020-06-01
+venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: ''
-citation: 'Palermo, Francesca, et al. (2020). "Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing
-" <i>Frontiers in Robotics and AI(2020)</i>'
+citation: 'Palermo, Francesca. (2020). "Implementing Tactile and Proximity Sensing for Crack Detection
+" <i>2020 IEEE International Conference on Robotics and Automation (ICRA)</i>'
 ---
-This paper demonstrates how tactile and proximity sensing can be used to perform automatic mechanical fractures detection (surface cracks). 
-For this purpose, a custom-designed integrated tactile and proximity sensor has been implemented. With the help of fiber optics, the sensor measures the deformation of its body,
-when interacting with the physical environment, and the distance to the environment's objects. This sensor slides across different 
-surfaces and records data which are then analyzed to detect and classify fractures and other mechanical features. 
-The proposed method implements machine learning techniques (handcrafted features, and state of the art classification algorithms). 
-A real-time classification method has been implemented for online classification of explored surfaces. 
-In contrast to previous techniques, which mainly rely on visual modality, the proposed approach based on optical 
-fibers might be more suitable for operation in extreme environments (such as nuclear facilities) where radiation may damage electronic 
-components of commonly employed sensing devices, such as standard force sensors based on strain gauges and video cameras.
+Remote characterisation of the environment during physical robot-environment interaction is an important task
+commonly accomplished in telerobotics. This paper demonstrates how tactile and proximity sensing can be efficiently
+used to perform automatic crack detection. A custom-designed
+integrated tactile and proximity sensor is implemented. It
+measures the deformation of its body when interacting with the
+physical environment and distance to the environment’s objects
+with the help of fibre optics. This sensor was used to slide across
+different surfaces and the data recorded during the experiments
+was used to detect and classify cracks, bumps and undulations.
+The proposed method uses machine learning techniques (mean
+absolute value as feature and random forest as classifier) to
+detect cracks and determine their width. 
 
-[Download complete paper here](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
+[Download complete paper here](https://ras.papercept.net/proceedings/ICRA20/1561.pdf)
 
 Bibtext Citation: 
 
-`@article{palermo2020automatic, title={Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, journal={Frontiers in Robotics and AI}, volume={7}, year={2020}, publisher={Frontiers Media SA}}`
+`@inproceedings{palermo2020crack, title={Implementing Tactile and Proximity Sensing for Crack Detection}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)}, pages={}, year={2020}, organization={IEEE}}`
 
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/EMC9P016eao">
 </iframe>
 
-![frontiers Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/frontiers_2020.png?raw=true)
+![icra Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/crack_detection.jpg?raw=true)
