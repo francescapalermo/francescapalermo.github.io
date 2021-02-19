@@ -1,8 +1,8 @@
 ---
-title: "Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing
+title: "Top-1 CORSMAL Challenge 2020 Submission: Filling Mass Estimation Using Multi-modal Observations of Human-robot Handovers
 "
 collection: publications
-permalink: /publication/palermo2020Frontiers
+permalink: /publication/iashin2020ICPR
 excerpt: 'Human-robot object handover is a key skill for the future of human-robot collaboration. 
 CORSMAL 2020 Challenge focuses on the perception part of this problem: the robot needs to estimate the filling mass of a container held by a human. 
 Although there are powerful methods in image processing and audio processing individually, answering such a problem requires processing data from multiple sensors together.
