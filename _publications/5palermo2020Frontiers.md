@@ -1,8 +1,8 @@
 ---
-title: "Implementing Tactile and Proximity Sensing for Crack Detection
+title: "Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing
 "
 collection: publications
-permalink: /publication/palermo2020ICRA
+permalink: /publication/palermo2020Frontiers
 excerpt: 'Remote characterisation of the environment during physical robot-environment interaction is an important task
 commonly accomplished in telerobotics. This paper demonstrates how tactile and proximity sensing can be efficiently
 used to perform automatic crack detection. A custom-designed
@@ -15,11 +15,11 @@ was used to detect and classify cracks, bumps and undulations.
 The proposed method uses machine learning techniques (mean
 absolute value as feature and random forest as classifier) to
 detect cracks and determine their width.'
-date: 2020-06-01
-venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
+date: 2020-12-02
+venue: 'Frontiers Robotics and AI'
 paperurl: ''
-citation: 'Palermo, Francesca. (2020). "Implementing Tactile and Proximity Sensing for Crack Detection
-" <i>2020 IEEE International Conference on Robotics and Automation (ICRA)</i>'
+citation: 'Palermo, Francesca, et al. (2020). "Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing
+" <i>Frontiers in Robotics and AI 7 (2020)</i>'
 ---
 Remote characterisation of the environment during physical robot-environment interaction is an important task
 commonly accomplished in telerobotics. This paper demonstrates how tactile and proximity sensing can be efficiently
