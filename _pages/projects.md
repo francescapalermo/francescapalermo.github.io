@@ -19,8 +19,8 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
+<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.jpg?raw=true"/>
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.jpg?raw=true" width="200" height="200"/>
 
 <iframe width="220" height="115"
 src="https://www.youtube.com/embed/UEqlDOTNtKc">
@@ -30,7 +30,8 @@ For more information, check the related papers [1](https://www.frontiersin.org/a
 
 Hololyo
 ======
-An augmented reality application developed in Unity. It allows amputatees to train the
+Augmented reality application developed in Unity to be deployed on Microsoft Hololens. 
+It allows amputatees to train the
 muscles of the forearm with a virtual arm
 
 
