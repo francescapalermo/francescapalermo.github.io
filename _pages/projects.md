@@ -20,7 +20,6 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 
 
 
-![multimodal Image]()
 <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.jpg?raw=true" width="100" height="100"/>
 
 <iframe width="320" height="215"
