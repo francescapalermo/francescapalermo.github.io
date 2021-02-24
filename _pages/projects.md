@@ -19,6 +19,8 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
+[Watch the Video](https://www.youtube.com/embed/UEqlDOTNtKc)
+
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
 
 
@@ -35,7 +37,7 @@ By using the virtual hand, the user can move objects in augmented reality and tr
 
 Nao Interface
 ======
-Mobile application for Android which allows the user to send vocal commands to a
+Mobile application for **Android** which allows the user to send vocal commands to a
 Nao Robot, through a client-server connection. 
 
 The project is created with two different applications which collaborates with each other:
@@ -54,14 +56,42 @@ Code available [here](https://sites.google.com/view/nao-interface)
 
 EEG Classification and Analysis
 ======
-Classification of EEG signals through the usage of the software Neucube
+Analysis and classification of a [EEG signals datatbase](http://archive.ics.uci.edu/ml/datasets/EEG+Database) through the usage of the software [Neucube](https://kedri.aut.ac.nz/R-and-D-Systems/neucube).
+
+NeuCube is a software development environment for spiking neural network (SNN) prototype systems. 
+It facilitates the design and the implementation of efficient solutions to problems through precise selection and testing of most suitable methods and parameters 
+for a Spatio-Temporal Data Machine (STDM).
+
+The goal of the implemented database is to examine EEG correlations of genetic predisposition to alcoholism. 
+It contains measurements from 64 electrodes placed on subject's scalps which were sampled at 256 Hz (3.9-msec epoch) for 1 second.
+The database consisted in two classes of subjects: alcoholic and control. 
+Each subject was exposed to either a single stimulus (S1) or to two stimuli (S1 and S2) which were pictures of objects. 
+When two stimuli were shown, they were presented in either a matched condition where S1 was identical to S2 or in a non-matched condition where S1 differed from S2.
+In total, data were acquired from 122 subjects and each subject completed 120 trials where different stimuli were shown. 
+The electrode positions were located at standard sites, following Standard Electrode Position Nomenclature
+[neucube.pdf](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/neucube.pdf)
 
 
-OpenCV-Matlab Kuka Control
+
+Motion Reconfiguration for Kuka Manipulator via Visual Servoing
 ======
-Medical Robotics project based on interaction between Matlab and OpenCV based on paper Mutual-
-Information Based on Visual Servoing (A. Dame, E. Marchand)
+Medical Robotics project for controlling the pose of a Kuka manipulator via Mutual-Information Based on Visual Servoing.
+Visual Servoing uses the information acquired by a vision sensors (such as cameras) for feedback control of the pose/motion of a robot.
+The proposed method can be used in medical applications for multimodal alignment, e.g. to compare multiple CT scans to monitor cancer mass growth.
+<br>Project developed with Matlab and OpenCV.</br>
+[visualServoing.pdf](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)
+
 
 The Little Knight
 ======
-Game based on WebGL using Javascript library (Three.js).
+The project is based on **WebGL** library that provides a graphic 3D API to browsers, allowing the creation of 3D scenes through **Javascript**, working with the Canvas element of HTML5.
+Two additional libraries are implemented:
+* **Three.js**, open source library based on WebGL, that provides a number of functions and structures that simplify the creation of complex objects and scenes, altogether leaving the programmer free to personalize the scene at his own.
+* **Physi.js** (website), another open source library that handles Physic simulation through Three.js function.
+
+The project developed is a third person game in which the player impersonates a character named Knight.
+The goal of the game is to reach the dragon on the other side of the cave, avoiding the lava’s river.
+In case of victory, the game stops and a final victory screen will appear.
+Otherwise, if the character falls in the lava, the losing screen will appear.
+
+![littleknight Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/littleknight.png?raw=true)
