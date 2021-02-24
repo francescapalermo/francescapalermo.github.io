@@ -7,12 +7,12 @@ author_profile: true
 
 
 
-Fracture Detection and Localisation
+<h2>Fracture Detection and Localisation<\h2>
 ======
 Developed an innovative approach involving vision and tactile sensing to detect and characterise surface cracks. 
 The proposed algorithm localises surface cracks in a remote environment through videos/photos taken by an on-board robot camera, which is then followed by automatic tactile inspection of the surfaces. 
-Faster R-CNN deep learning-based object detection is used for identifying the location of potential cracks. 
-Random forest classifier is used for tactile identification of the cracks to confirm their presences. 
+Faster R-CNN deep learning-based **object detection** is used for identifying the location of potential cracks. 
+**Random forest classifier** is used for tactile identification of the cracks to confirm their presences. 
 The algorithm is able to localise and explore fractures both offline and in realtime.
 When using both modalities cooperatively, the model is able to correctly detect 92.85% of the cracks while it decreases to 46.66% when using only vision information. 
 Exploring a surface using only tactile requires around 199 seconds. This time is reduced to 31 seconds when using both vision and tactile together. 
@@ -21,19 +21,23 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 
 \[[VIDEO](https://www.youtube.com/embed/UEqlDOTNtKc)\]
 
+For more information, check the related papers \[[1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)\], \[[2](https://ieeexplore.ieee.org/abstract/document/9196936)\]
+
+
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
 
 
-For more information, check the related papers [1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full), [2](https://ieeexplore.ieee.org/abstract/document/9196936)
 
 Hololyo
 ======
-Portable augmented reality application to provide visual feedback to amputees during surface electromyography data acquisitions.
-Developed in Unity to combines the Microsoft HoloLens and the Thalmic labs Myo. 
+Portable **augmented reality** application to provide visual feedback to amputees during surface electromyography data acquisitions.
+Developed in Unity to combines the **Microsoft HoloLens** and the **Thalmic labs Myo**. 
 In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. 
 By using the virtual hand, the user can move objects in augmented reality and train to activate the right muscles for each movement through visual feedback.
 
 For more information, check the related paper \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-25332-5_1)\]
+
+![hololyo Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/hololyo.png?raw=true)
 
 
 
@@ -58,11 +62,11 @@ EEG Classification and Analysis
 ======
 Analysis and classification of a [EEG signals datatbase](http://archive.ics.uci.edu/ml/datasets/EEG+Database) through the usage of the software [Neucube](https://kedri.aut.ac.nz/R-and-D-Systems/neucube).
 
-NeuCube is a software development environment for spiking neural network (SNN) prototype systems. 
+**NeuCube** is a software development environment for **spiking neural network** (SNN) prototype systems. 
 It facilitates the design and the implementation of efficient solutions to problems through precise selection and testing of most suitable methods and parameters 
 for a Spatio-Temporal Data Machine (STDM).
 
-The goal of the implemented database is to examine EEG correlations of genetic predisposition to alcoholism. 
+The goal of the implemented database is to analyse EEG correlations of genetic predisposition to alcoholism. 
 It contains measurements from 64 electrodes placed on subject's scalps which were sampled at 256 Hz (3.9-msec epoch) for 1 second.
 The database consisted in two classes of subjects: alcoholic and control. 
 Each subject was exposed to either a single stimulus (S1) or to two stimuli (S1 and S2) which were pictures of objects. 
@@ -76,11 +80,11 @@ The electrode positions were located at standard sites, following Standard Elect
 
 Motion Reconfiguration for Kuka Manipulator via Visual Servoing
 ======
-Medical Robotics project for controlling the pose of a Kuka manipulator via Mutual-Information Based on Visual Servoing.
+Medical Robotics project for controlling the pose of a **Kuka manipulator** via Mutual-Information Based on Visual Servoing.
 Visual Servoing uses the information acquired by a vision sensors (such as cameras) for feedback control of the pose/motion of a robot.
 The proposed method can be used in medical applications for multimodal alignment, e.g. to compare multiple CT scans to monitor cancer mass growth.
 
-Project developed with Matlab and OpenCV.
+Project developed with **Matlab** and **OpenCV**.
 
 \[[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)\]
 
