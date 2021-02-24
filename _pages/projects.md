@@ -19,7 +19,7 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
-[VIDEO](https://www.youtube.com/embed/UEqlDOTNtKc)
+\[[VIDEO](https://www.youtube.com/embed/UEqlDOTNtKc)\]
 
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
 
@@ -32,6 +32,8 @@ Portable augmented reality application to provide visual feedback to amputees du
 Developed in Unity to combines the Microsoft HoloLens and the Thalmic labs Myo. 
 In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. 
 By using the virtual hand, the user can move objects in augmented reality and train to activate the right muscles for each movement through visual feedback.
+
+For more information, check the related paper \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-25332-5_1)\]
 
 
 
@@ -47,7 +49,7 @@ The project is created with two different applications which collaborates with e
 The NAO is able to recognize a set of words in any sentence and executes multiple commands at the same time.
 
 
-[CODE](https://sites.google.com/view/nao-interface) [VIDEO](https://www.youtube.com/embed/1wWJvQwiVUg)
+\[[CODE](https://sites.google.com/view/nao-interface)\] \[[VIDEO](https://www.youtube.com/embed/1wWJvQwiVUg)\]
 
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png?raw=true)](https://www.youtube.com/embed/1wWJvQwiVUg)
 
@@ -95,6 +97,6 @@ The goal of the game is to reach the dragon on the other side of the cave, avoid
 In case of victory, the game stops and a final victory screen will appear.
 Otherwise, if the character falls in the lava, the losing screen will appear.
 
-[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleKnight.pdf)
+\[[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleKnight.pdf)\]
 
 ![littleknight Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleknight.png?raw=true)
