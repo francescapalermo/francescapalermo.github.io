@@ -19,12 +19,8 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true"/>
+[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
 
-
-<iframe width="320" height="240"
-src="https://www.youtube.com/embed/UEqlDOTNtKc">
-</iframe>
 
 For more information, check the related papers [1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full), [2](https://ieeexplore.ieee.org/abstract/document/9196936)
 
@@ -50,6 +46,7 @@ The NAO is able to recognize a set of words in any sentence and executes multipl
 
 
 Code available [here](https://sites.google.com/view/nao-interface)
+
 [Watch the Video](https://www.youtube.com/embed/1wWJvQwiVUg)
 
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png?raw=true)](https://www.youtube.com/embed/1wWJvQwiVUg)
