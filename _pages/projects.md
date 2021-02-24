@@ -22,7 +22,7 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true"/>
 
 
-<iframe width="220" height="115"
+<iframe width="320" height="240"
 src="https://www.youtube.com/embed/UEqlDOTNtKc">
 </iframe>
 
@@ -30,20 +30,31 @@ For more information, check the related papers [1](https://www.frontiersin.org/a
 
 Hololyo
 ======
-Augmented reality application developed in Unity to be deployed on Microsoft Hololens. 
-It allows amputatees to train the
-muscles of the forearm with a virtual arm
+Portable augmented reality application to provide visual feedback to amputees during surface electromyography data acquisitions.
+Developed in Unity to combines the Microsoft HoloLens and the Thalmic labs Myo. 
+In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. 
+By using the virtual hand, the user can move objects in augmented reality and train to activate the right muscles for each movement through visual feedback.
+
 
 
 Nao Interface
 ======
-A mobile application for Android which allows the user to send vocal commands to a
-Nao Robot, through a client-server connection. Available on https://sites.google.com/view/
-nao-interface
+Mobile application for Android which allows the user to send vocal commands to a
+Nao Robot, through a client-server connection. 
 
-Android Pokédex
-======
-Mobile application for Android which uses Google API and Voice Search
+The project is created with two different applications which collaborates with each other:
+1. An Android app which sends vocal human commands in real-time to a Choreographe project;
+2. A Coreographe interface which transmits the the received message to the NAO robot.
+
+The NAO is able to recognize a set of words in any sentence and executes multiple commands at the same time.
+
+
+Available [here](https://sites.google.com/view/nao-interface)
+
+<iframe width="320" height="240"
+src="https://www.youtube.com/embed/1wWJvQwiVUg">
+</iframe>
+
 
 
 EEG Classification and Analysis
