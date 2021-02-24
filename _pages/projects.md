@@ -68,7 +68,7 @@ When two stimuli were shown, they were presented in either a matched condition w
 In total, data were acquired from 122 subjects and each subject completed 120 trials where different stimuli were shown. 
 The electrode positions were located at standard sites, following Standard Electrode Position Nomenclature
 
-\[[PRESENTATION]\](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/neucube.pdf)
+\[[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/neucube.pdf)\]
 
 
 
@@ -80,7 +80,7 @@ The proposed method can be used in medical applications for multimodal alignment
 
 Project developed with Matlab and OpenCV.
 
-\[[PRESENTATION]\](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)
+\[[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)\]
 
 
 The Little Knight
