@@ -50,10 +50,9 @@ The NAO is able to recognize a set of words in any sentence and executes multipl
 
 
 Code available [here](https://sites.google.com/view/nao-interface)
-Watch the Youtube Video [here](https://www.youtube.com/embed/1wWJvQwiVUg)
+[Watch the Video](https://www.youtube.com/embed/1wWJvQwiVUg)
 
-[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png)](https://www.youtube.com/embed/1wWJvQwiVUg)
-
+[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png?raw=true)](https://www.youtube.com/embed/1wWJvQwiVUg)
 
 
 EEG Classification and Analysis
