@@ -67,7 +67,8 @@ Each subject was exposed to either a single stimulus (S1) or to two stimuli (S1 
 When two stimuli were shown, they were presented in either a matched condition where S1 was identical to S2 or in a non-matched condition where S1 differed from S2.
 In total, data were acquired from 122 subjects and each subject completed 120 trials where different stimuli were shown. 
 The electrode positions were located at standard sites, following Standard Electrode Position Nomenclature
-[Presentation](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/neucube.pdf)
+
+\[[PRESENTATION]\](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/neucube.pdf)
 
 
 
@@ -76,8 +77,10 @@ Motion Reconfiguration for Kuka Manipulator via Visual Servoing
 Medical Robotics project for controlling the pose of a Kuka manipulator via Mutual-Information Based on Visual Servoing.
 Visual Servoing uses the information acquired by a vision sensors (such as cameras) for feedback control of the pose/motion of a robot.
 The proposed method can be used in medical applications for multimodal alignment, e.g. to compare multiple CT scans to monitor cancer mass growth.
-<br>Project developed with Matlab and OpenCV.</br>
-[Presentation](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)
+
+Project developed with Matlab and OpenCV.
+
+\[[PRESENTATION]\](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/visual_servoing.pdf)
 
 
 The Little Knight
@@ -91,6 +94,7 @@ The project developed is a third person game in which the player impersonates a 
 The goal of the game is to reach the dragon on the other side of the cave, avoiding the lava’s river.
 In case of victory, the game stops and a final victory screen will appear.
 Otherwise, if the character falls in the lava, the losing screen will appear.
-[Presentation](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleKnight.pdf)
+
+[PRESENTATION](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleKnight.pdf)
 
 ![littleknight Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/littleknight.png?raw=true)
