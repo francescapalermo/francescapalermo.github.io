@@ -51,9 +51,7 @@ The NAO is able to recognize a set of words in any sentence and executes multipl
 
 Available [here](https://sites.google.com/view/nao-interface)
 
-<iframe width="320" height="240"
-src="https://www.youtube.com/embed/1wWJvQwiVUg">
-</iframe>
+<iframe src="https://www.youtube.com/embed/1wWJvQwiVUg" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="240px" width="320px" allowfullscreen></iframe>
 
 
 
