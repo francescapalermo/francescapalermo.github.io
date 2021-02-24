@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<h2>Fracture Detection and Localisation<\h2>
+Fracture Detection and Localisation
 ======
 Developed an innovative approach involving vision and tactile sensing to detect and characterise surface cracks. 
 The proposed algorithm localises surface cracks in a remote environment through videos/photos taken by an on-board robot camera, which is then followed by automatic tactile inspection of the surfaces. 
