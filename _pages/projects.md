@@ -8,7 +8,7 @@ author_profile: true
 
 
 Fracture Detection and Localisation
-======
+---------------	
 Developed an innovative approach involving vision and tactile sensing to detect and characterise surface cracks. 
 The proposed algorithm localises surface cracks in a remote environment through videos/photos taken by an on-board robot camera, which is then followed by automatic tactile inspection of the surfaces. 
 Faster R-CNN deep learning-based **object detection** is used for identifying the location of potential cracks. 
@@ -29,7 +29,7 @@ For more information, check the related papers \[[1](https://www.frontiersin.org
 
 
 Hololyo
-======
+---------------	
 Portable **augmented reality** application to provide visual feedback to amputees during surface electromyography data acquisitions.
 Developed in Unity to combines the **Microsoft HoloLens** and the **Thalmic labs Myo**. 
 In the augmented environment, rendered by the HoloLens, the user can control a virtual hand with surface electromyography. 
@@ -42,7 +42,7 @@ For more information, check the related paper \[[PDF](https://link.springer.com/
 
 
 Nao Interface
-======
+---------------	
 Mobile application for **Android** which allows the user to send vocal commands to a
 Nao Robot, through a client-server connection. 
 
@@ -59,7 +59,7 @@ The NAO is able to recognize a set of words in any sentence and executes multipl
 
 
 EEG Classification and Analysis
-======
+---------------	
 Analysis and classification of a [EEG signals datatbase](http://archive.ics.uci.edu/ml/datasets/EEG+Database) through the usage of the software [Neucube](https://kedri.aut.ac.nz/R-and-D-Systems/neucube).
 
 **NeuCube** is a software development environment for **spiking neural network** (SNN) prototype systems. 
@@ -79,7 +79,7 @@ The electrode positions were located at standard sites, following Standard Elect
 
 
 Motion Reconfiguration for Kuka Manipulator via Visual Servoing
-======
+---------------	
 Medical Robotics project for controlling the pose of a **Kuka manipulator** via Mutual-Information Based on Visual Servoing.
 Visual Servoing uses the information acquired by a vision sensors (such as cameras) for feedback control of the pose/motion of a robot.
 The proposed method can be used in medical applications for multimodal alignment, e.g. to compare multiple CT scans to monitor cancer mass growth.
@@ -90,7 +90,7 @@ Project developed with **Matlab** and **OpenCV**.
 
 
 The Little Knight
-======
+---------------	
 The project is based on **WebGL** library that provides a graphic 3D API to browsers, allowing the creation of 3D scenes through **Javascript**, working with the Canvas element of HTML5.
 Two additional libraries are implemented:
 * **Three.js**, open source library based on WebGL, that provides a number of functions and structures that simplify the creation of complex objects and scenes, altogether leaving the programmer free to personalize the scene at his own.
