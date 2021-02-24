@@ -78,4 +78,4 @@ Abroad Experiences
   * A two-week international "hands-on" Summer School in Robotics - a series of lectures by some of the biggest names from the Graduate Schools of Engineering, Information Sciences and Biomedical Engineering
   
   
- For an updated CV please click [here](https://www.dropbox.com/s/nht7f1bnza0vllp/Curriculum%20Vitae%20Francesca%20Palermo.pdf?dl=0)
+ For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
