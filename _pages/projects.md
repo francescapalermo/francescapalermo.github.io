@@ -49,7 +49,8 @@ The project is created with two different applications which collaborates with e
 The NAO is able to recognize a set of words in any sentence and executes multiple commands at the same time.
 
 
-Available [here](https://sites.google.com/view/nao-interface)
+Code available [here](https://sites.google.com/view/nao-interface)
+Watch the Youtube Video [here](https://www.youtube.com/embed/1wWJvQwiVUg)
 
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png)](https://www.youtube.com/embed/1wWJvQwiVUg)
 
