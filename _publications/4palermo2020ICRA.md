@@ -28,7 +28,7 @@ The proposed method uses machine learning techniques (mean
 absolute value as feature and random forest as classifier) to
 detect cracks and determine their width. 
 
-[Download complete paper here](https://ras.papercept.net/proceedings/ICRA20/1561.pdf)
+[Download complete paper here](https://ieeexplore.ieee.org/abstract/document/9196936)
 
 Bibtext Citation: 
 
