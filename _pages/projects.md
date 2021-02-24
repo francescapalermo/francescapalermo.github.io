@@ -19,7 +19,7 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.jpg?raw=true"/>
+<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true"/>
 
 
 <iframe width="220" height="115"
