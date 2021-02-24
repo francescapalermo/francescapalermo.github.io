@@ -21,7 +21,7 @@ These indicators are then combined to estimate the filling mass of a container.
 Our method obtained Top-1 overall performance among all submissions to CORSMAL 2020 Challenge on both public and private subsets while showing no evidence of overfitting. 
 
 
-[Download complete paper here](https://arxiv.org/abs/2012.01311)
+[Download complete paper here](https://link.springer.com/chapter/10.1007%2F978-3-030-68793-9_31)
 
 Bibtext Citation: 
 
