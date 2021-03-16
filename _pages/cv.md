@@ -85,10 +85,27 @@ Awards
 
 Technical Skills
 ======
+Languages:
+* Python
+* C++
+* C#
+* Matlab
+* Java
 
+Tools:
+* PyCharm
+* Tensorflow
+* OpenCV
+* ROS
+* Unity
+* Visual Studio
+* Android Studio
 
 Languages
 ======
-Italian/(Native)
+* Italian (Native)
+* English (Advanced)
+* French (Average)
+* Japanese (Basic)
   
  For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
