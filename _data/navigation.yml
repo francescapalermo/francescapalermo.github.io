@@ -12,6 +12,9 @@ main:
 
   - title: "Projects"
     url: /projects/
+	
+  - title: "Database"
+    url: /database/
 
   #- title: "Talks"
   #  url: /talks/  
