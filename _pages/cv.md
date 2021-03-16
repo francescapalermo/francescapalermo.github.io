@@ -96,14 +96,14 @@ Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/b
 
 Technical Skills 
 ======
-##Languages:
+## Languages:
 * Python
 * C++
 * C#
 * Matlab
 * Java
 
-##Tools:
+## Tools:
 * PyCharm
 * Tensorflow
 * OpenCV
