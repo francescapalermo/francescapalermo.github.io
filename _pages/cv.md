@@ -11,12 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-now
-  * Investigation of new Haptic Simultaneous Localisation and Mapping (SLAM) Sensor Systems and Data Analytics for Robotics.
+* Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
+  * Robotic surface exploration algorithm developed in Python and C++ implementing vision techniques (object detection, edge detection) and tactile sensing based on force and proximity sensors for fractures detection and characterisation in extreme environments. 
+  * Research funded by the National Centre for Nuclear Robotics (NCNR)
+  * Additional Activities:
+    * Developed the master side of a bilateral teleoperation system via UDP between Geomagic Haptic as master and Franka Panda as slave
+    * PhD Representative for the 20 students of the Advanced Robotics Laboratory (ARQ)
+	* Organiser of the biweekly meetings for the Advanced Robotics Laboratory
+	* Supervised 3 master students during their final project
+	* Google Get Ahead 2020 participant, invitation-only program for students interested in developing their technical skills
 * M.Sc. in Artificial Intelligence and Robotics, University of Rome "La Sapienza", Rome, Italy, Italian Mark 110/110, 2015-2017
-  * Repeatability of grasp recognition for robotic hand control based on sEMG data
+  * Implemented machine learning techniques (feature extraction, classification) to analyse the repeatability of grasp recognition for robotic hand control based on surface Electromyography data
 * B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome, Italy, Italian Mark 95/110, 2010-2014
-  * Studio e modelli di reti fondate su modelli neurali completi
+  * Analysis and development of spiking neural network Izhikevich models
 
 
 Work experience

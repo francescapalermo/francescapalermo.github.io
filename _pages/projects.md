@@ -41,6 +41,7 @@ The system consists of a hybrid position and rate control modes with interoperab
 
 
 \[[VIDEO](https://www.youtube.com/embed/QcAdntJHpo8)\]
+
 For more information, check the related paper \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-23807-0_26)\]
 
 
