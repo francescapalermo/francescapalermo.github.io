@@ -20,7 +20,7 @@ redirect_from:
 
 For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
-Education ![education](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true)
+Education <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true" width="48">
 ======
 * Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
   * **Project Proposal**: Robotic surface exploration algorithm developed in Python and C++ implementing vision techniques (object detection, edge detection) and tactile sensing based on force and proximity sensors for fractures detection and characterisation in extreme environments. 
