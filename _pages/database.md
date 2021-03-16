@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Database"
-permalink: /database/
+title: "Dataset"
+permalink: /dataset/
 author_profile: true
 ---
 

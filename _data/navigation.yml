@@ -13,8 +13,8 @@ main:
   - title: "Projects"
     url: /projects/
 	
-  - title: "Database"
-    url: /database/
+  - title: "Dataset"
+    url: /dataset/
 
   #- title: "Talks"
   #  url: /talks/  
