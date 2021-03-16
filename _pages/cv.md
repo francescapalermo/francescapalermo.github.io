@@ -20,7 +20,7 @@ redirect_from:
 
 For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
-Education
+Education ![education](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true)
 ======
 * Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
   * **Project Proposal**: Robotic surface exploration algorithm developed in Python and C++ implementing vision techniques (object detection, edge detection) and tactile sensing based on force and proximity sensors for fractures detection and characterisation in extreme environments. 
@@ -41,7 +41,7 @@ Education
   * Analysis and development of spiking neural network Izhikevich models
 
 
-Work experience
+Work experience ![work](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true)
 ======
 * September 2018 - Current: Student Demonstrator, Queen Mary Univerity of London, London, UK.
   * Taught  principles of Machine Learning and Data Mining to classes of over 100 students, both undergraduate and postgraduate
@@ -68,13 +68,13 @@ Work experience
   * In collaboration with the project MeganePro (myoelectric hand prosthesis)
 
 
-Publications
+Publications ![publications](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/baseline_home_repair_service_black_18dp.png?raw=true)
+Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true)
 ======
 * CORSMAL Challenge 2020, ICPR 2020, November 2020:
   * Awarded first prize. Member of a 4 person team who correctly estimated containers’ capacity via computer vision and machine learning techniques. In addition, organised the meetings and workload of the team.
@@ -94,7 +94,7 @@ Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/b
 * Swiss-European Mobility Programme and Hes-So grant, HES-SO, Sierre, October 2016.
   * Awarded scholarship of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
 
-Technical Skills 
+Technical Skills ![skill](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true)
 ======
 ## Languages:
 * Python
@@ -112,10 +112,14 @@ Technical Skills
 * Visual Studio
 * Android Studio
 
-Languages
+Languages ![language](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true)
 ======
 * Italian (Native)
 * English (Advanced)
 * French (Average)
 * Japanese (Basic)
   
+  
+  
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
