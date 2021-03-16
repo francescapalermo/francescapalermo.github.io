@@ -74,7 +74,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/368.png?raw=true)
+Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/baseline_home_repair_service_black_18dp.png?raw=true)
 ======
 * CORSMAL Challenge 2020, ICPR 2020, November 2020:
   * Awarded first prize. Member of a 4 person team who correctly estimated containers’ capacity via computer vision and machine learning techniques. In addition, organised the meetings and workload of the team.
