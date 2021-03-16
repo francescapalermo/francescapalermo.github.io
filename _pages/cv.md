@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-##### Table of Contents
+## Table of Contents
 - [Education](#education)
 - [Work experience](#work-experience)
 - [Publications](#publications)
 - [Awards](#awards)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
+
+
+For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
 Education
 ======
@@ -116,4 +119,3 @@ Languages
 * French (Average)
 * Japanese (Basic)
   
- For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
