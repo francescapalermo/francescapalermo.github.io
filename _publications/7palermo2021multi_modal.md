@@ -10,7 +10,7 @@ Random forest classifier is used for tactile identification of the cracks to con
 Offline and online experiments to compare vision only and combined vision and tactile based crack detection are demonstrated. 
 '
 date: 2021-06-01
-venue: 'ICRA 2021 -- Submitted'
+venue: 'Submitted'
 paperurl: ''
 citation: ''
 ---
@@ -29,7 +29,7 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/UEqlDOTNtKc">
+src="https://www.youtube.com/embed/dbRd6R_bzNE">
 </iframe>
 
 ![multimodal Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_publications/crack_detection_multimodal.png?raw=true)

@@ -19,12 +19,25 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
-\[[VIDEO](https://www.youtube.com/embed/UEqlDOTNtKc)\]
+\[[VIDEO](https://www.youtube.com/embed/dbRd6R_bzNE)\]
 
 For more information, check the related papers \[[1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)\], \[[2](https://ieeexplore.ieee.org/abstract/document/9196936)\]
 
 
 [![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
+
+
+Bilateral Teleoperation Franka Panda/Geomagic Touch
+---------------
+Developed the master side in C++ of a bilateral teleoperation system between Geomagic Touch as the master device and a Franka Emika’s Panda as the slave robot.
+The system consists of a hybrid position and rate control modes with interoperability protocol.
+
+
+\[[VIDEO](https://www.youtube.com/embed/QcAdntJHpo8)\]
+For more information, check the related paper \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-23807-0_26)\]
+
+
+[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/positioncontrol.jpg?raw=true)](https://www.youtube.com/embed/QcAdntJHpo8)
 
 
 
