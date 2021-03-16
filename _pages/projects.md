@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-##### Table of Contents
+# Table of Contents
 - [Fracture Detection and Localisation](#fracture-detection-and-localisation)
 - [Bilateral Teleoperation Franka Panda/Geomagic Touch](#bilateral-teleoperation-franka-panda-geomagic-touch)
 - [Hololyo](#hololyo)

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Table of Contents
+# Table of Contents
 - [Education](#education)
 - [Work experience](#work-experience)
 - [Publications](#publications)
@@ -74,7 +74,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/368.png?raw=true)
 ======
 * CORSMAL Challenge 2020, ICPR 2020, November 2020:
   * Awarded first prize. Member of a 4 person team who correctly estimated containers’ capacity via computer vision and machine learning techniques. In addition, organised the meetings and workload of the team.
@@ -94,16 +94,16 @@ Awards
 * Swiss-European Mobility Programme and Hes-So grant, HES-SO, Sierre, October 2016.
   * Awarded scholarship of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
 
-Technical Skills
+Technical Skills 
 ======
-Languages:
+##Languages:
 * Python
 * C++
 * C#
 * Matlab
 * Java
 
-Tools:
+##Tools:
 * PyCharm
 * Tensorflow
 * OpenCV
