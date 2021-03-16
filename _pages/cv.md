@@ -20,6 +20,7 @@ redirect_from:
 
 For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
+
 Education <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true" width="48">
 ======
 * Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
@@ -74,6 +75,7 @@ Publications <img src="https://github.com/francescapalermo/francescapalermo.gith
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true" width="48"> 
 ======
 * CORSMAL Challenge 2020, ICPR 2020, November 2020:
@@ -93,6 +95,7 @@ Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/
 
 * Swiss-European Mobility Programme and Hes-So grant, HES-SO, Sierre, October 2016.
   * Awarded scholarship of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
+
 
 Technical Skills <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
 ======
