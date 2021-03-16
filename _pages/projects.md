@@ -4,7 +4,14 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+##### Table of Contents
+- [Fracture Detection and Localisation](#fracture-detection-and-localisation)
+- [Bilateral Teleoperation Franka Panda/Geomagic Touch](#bilateral-teleoperation-franka-panda-geomagic-touch)
+- [Hololyo](#hololyo)
+- [Nao Interface](#nao-interface)
+- [EEG Classification and Analysis](#eeg-classification-and-analysis)
+- [Motion Reconfiguration for Kuka Manipulator via Visual Servoing](#motion-reconfiguration-for-kuka-manipulator-via-visual-servoing)
+- [The Little Knight](#the-little-knight)
 
 
 Fracture Detection and Localisation
