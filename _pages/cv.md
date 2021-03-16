@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+##### Table of Contents
+- [Education](#education)
+- [Work experience](#work-experience)
+- [Publications](#publications)
+- [Awards](#awards)
+- [Technical Skills](#technical-skills)
+- [Languages](#languages)
+
 Education
 ======
 * Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
