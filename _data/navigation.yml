@@ -12,10 +12,9 @@ main:
 
   - title: "Projects"
     url: /projects/
-	
+
   - title: "Dataset"
     url: /dataset/
-
   #- title: "Talks"
   #  url: /talks/  
         
