@@ -41,7 +41,7 @@ Education <img src="https://github.com/francescapalermo/francescapalermo.github.
   * Analysis and development of spiking neural network Izhikevich models
 
 
-Work experience ![work](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true)
+Work experience <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true" width="48"> 
 ======
 * September 2018 - Current: Student Demonstrator, Queen Mary Univerity of London, London, UK.
   * Taught  principles of Machine Learning and Data Mining to classes of over 100 students, both undergraduate and postgraduate
@@ -68,13 +68,13 @@ Work experience ![work](https://github.com/francescapalermo/francescapalermo.git
   * In collaboration with the project MeganePro (myoelectric hand prosthesis)
 
 
-Publications ![publications](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true)
+Publications <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true)
+Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true" width="48"> 
 ======
 * CORSMAL Challenge 2020, ICPR 2020, November 2020:
   * Awarded first prize. Member of a 4 person team who correctly estimated containers’ capacity via computer vision and machine learning techniques. In addition, organised the meetings and workload of the team.
@@ -94,7 +94,7 @@ Awards ![award](https://github.com/francescapalermo/francescapalermo.github.io/b
 * Swiss-European Mobility Programme and Hes-So grant, HES-SO, Sierre, October 2016.
   * Awarded scholarship of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
 
-Technical Skills ![skill](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true)
+Technical Skills <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
 ======
 ## Languages:
 * Python
@@ -112,7 +112,7 @@ Technical Skills ![skill](https://github.com/francescapalermo/francescapalermo.g
 * Visual Studio
 * Android Studio
 
-Languages ![language](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true)
+Languages <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
 ======
 * Italian (Native)
 * English (Advanced)
