@@ -2,7 +2,7 @@
 title: "Tactile and proximity dataset"
 collection: datasets
 type: "Dataset"
-permalink: /datasets/tactileproximitydataset
+permalink: /dataset/tactileproximitydataset
 venue: ""
 date: 2020-12-02
 location: ""
