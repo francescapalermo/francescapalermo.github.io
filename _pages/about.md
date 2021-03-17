@@ -10,7 +10,8 @@ redirect_from:
 Welcome!<br/>
 I am a PhD fellow (2018-current) in the [Advanced Robotics Lab](https://www.qmul.ac.uk/robotics/) 
 at the School of Electronics Engineering and Computer Science, Queen Mary University of London, United Kingdom. 
-My Ph.D. is sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), a consortium of 8 universities whose goal is to develop cutting-edge technology to solve the problem of nuclear waste. 
+My Ph.D. is sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), 
+a consortium of 8 universities whose goal is to develop cutting-edge technology to solve the problem of nuclear waste. 
 I am also a member of the [HAIR robotics Lab](https://hair-robotics.qmul.ac.uk/) led by [Dr. Ildar Farkhatdinov](https://farkhatdinov.wordpress.com/).<br/> 
 
 
