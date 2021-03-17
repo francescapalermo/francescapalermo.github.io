@@ -5,14 +5,9 @@ permalink: /dataset/
 author_profile: true
 ---
 
-{% include base_path %}
+For my research, I had to acquire multiple dataset to investagete the developed algorithms.
 
-# Table of Contents
-
-
-{% include base_path %}
-
-{% for post in site.dataset reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Tactile and Proximity Dataset](tactileproximity)
+---------------	
+Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
 

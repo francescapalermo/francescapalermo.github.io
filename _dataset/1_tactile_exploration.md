@@ -1,13 +1,19 @@
 ---
-title: "Tactile-Fibre Optic Fracture Dataset
-"
-collection: datasets
-permalink: /dataset/tactile_dataset
-excerpt: 'Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
-This dataset is acquired by a '
-
+layout: archive
+title: "Tactile and Proximity Dataset"
+permalink: /tactile_proximity_dataset/
+author_profile: true
+redirect_from:
+  - /tactileproximity
 ---
 
+Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
+This dataset 
+
+4 types of 3D printed surface have been acquired (no crack, crack, bump and wavy pattern).
+6 different widths of cracks (0mm, 1mm, 2mm, 5mm, 8mm, 10mm).
+5 acquisitions for each surface and width for a total of 50 acquisitions.
+Each acquisitions consists of 12 complete movements on the explored surface
 
 [Download complete paper here](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
 
