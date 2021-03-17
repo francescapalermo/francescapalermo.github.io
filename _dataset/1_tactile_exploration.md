@@ -1,14 +1,15 @@
 ---
 layout: archive
 title: "Tactile and Proximity Dataset"
-permalink: /tactile_proximity_dataset/
+permalink: /tactileproximitydataset/
 author_profile: true
 redirect_from:
-  - /tactileproximity
+  - /tactileproximitydataset
 ---
 
 Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
-This dataset 
+The following dataset was acquired with a fibre optic based finger-shaped sensor which slided on a total of 10 different 3D printed surfaces.
+
 
 4 types of 3D printed surface have been acquired (no crack, crack, bump and wavy pattern).
 6 different widths of cracks (0mm, 1mm, 2mm, 5mm, 8mm, 10mm).
