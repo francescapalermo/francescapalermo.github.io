@@ -16,7 +16,7 @@ This dataset was acquired with a fibre optic based finger-shaped sensor which sl
 The acquired data can be used for fracture detection on surfaces using both tactile and proximity features.
 
 
-###Acquisition Protocol:
+### Acquisition Protocol:
 A set of 10 objects with different surfaces (no crack, cracks of different widths, a bump and a wavy pattern) and crack widths (0mm, 1mm, 2mm, 5mm, 8mm, 10mm)  were manufactured with 
 PLA plastic using 3D printing technology (Ultimaker~III, 0.2 mm layer height, 0.4 mm nozzle diameter). 
 The wavy pattern consists of a repeated pattern of sine waves of 1mm amplitude and 5mm magnitude.
@@ -28,7 +28,7 @@ Tactile and proximity signals were recorded for 12 repeated continuous sliding m
 This continuous recording was repeated five times.
 
 
-###Acquisition Setup: 
+### Acquisition Setup: 
 To collect data and test the proposed crack detection algorithm, 
 the tactile and proximity sensor has been attached to the end-effector of a Touch desktop haptic interface (formerly known as Phantom Omni Geomagic)). 
 The Phantom Omni was programmed to slide the tactile sensor along a static sample surface following a programmed periodic movement. 
@@ -41,7 +41,7 @@ The material samples, as well as the Phantom Omni interface, were fixed to a lab
 The complete setup and implemented analysis is throughly described in the following [paper](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
 
 
-###Information
+### Information
 The names are encoded as follows:<br/>
 "crack_type/width_R.mat"<br/>
 type/width: the type of surface or the width of the crack<br/>
@@ -51,15 +51,15 @@ For each surface the dataset contains one matlab file:
 TBD
 
 
-###Download links
+### Download links
 TBD
 
 
-###Info and queries
+### Info and queries
 For any enquiries, questions, concerns and general feedback, please contact f.palermo@qmul.ac.uk.
 
 
-###Acknowledgments
+### Acknowledgments
 If you use the dataset, please cite the paper.
 Bibtext Citation: 
 
