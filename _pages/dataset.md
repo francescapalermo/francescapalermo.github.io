@@ -7,7 +7,9 @@ author_profile: true
 
 For my research, I had to acquire multiple dataset to investagete the developed algorithms.
 
-[Tactile and Proximity Dataset](tactileproximitydataset)
----------------	
-Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 

@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "Tactile and Proximity Dataset"
-permalink: /dataset/tactileproximitydataset/
-author_profile: true
-redirect_from:
-  - /tactileproximitydataset
+title: "Tactile and proximity dataset"
+collection: datasets
+type: "Dataset"
+permalink: /datasets/tactileproximitydataset
+venue: ""
+date: 2020-12-02
+location: ""
 ---
 
 Tactile and proximity sensing can be efficiently used to perform automatic crack detection. 
