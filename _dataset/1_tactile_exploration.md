@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Tactile and Proximity Dataset"
-permalink: /tactileproximitydataset/
+permalink: /dataset/tactileproximitydataset/
 author_profile: true
 redirect_from:
   - /tactileproximitydataset
