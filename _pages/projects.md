@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from:
+  - /projects
 ---
 # Table of Contents
 - [Fracture Detection and Localisation](#fracture-detection-and-localisation)
