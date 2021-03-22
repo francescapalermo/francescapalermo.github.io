@@ -40,6 +40,9 @@ The material samples, as well as the Phantom Omni interface, were fixed to a lab
 
 The complete setup and implemented analysis is throughly described in the following [paper](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
 
+Set of objects used in the acquisitions:
+![objects Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/set_object.jpg?raw=true)
+
 
 ### Information
 The names are encoded as follows:<br/>
