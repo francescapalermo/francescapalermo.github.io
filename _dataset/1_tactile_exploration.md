@@ -63,12 +63,14 @@ For the width of the crack, the size of the crack is used (e.g. 0 if no crack, 5
 ![setup Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/combined_sensor_setup.png?raw=true)
 
 ### Download links
-[Crack Width] dataset (https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/width/width.rar)
-[Surface Type] dataset (https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/type/type.rar)
+[Crack Width](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/width/width.rar) dataset.
+
+
+[Surface Type](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/type/type.rar) dataset.
 
 
 ### Info and queries
-For any enquiries, questions, concerns and general feedback, please contact f.palermo@qmul.ac.uk.
+For any enquiries, questions, concerns and general feedback, please contact [Francesca Palermo](mailto:f.palermo@qmul.ac.uk)
 
 
 ### Acknowledgments
