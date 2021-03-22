@@ -46,13 +46,25 @@ The names are encoded as follows:<br/>
 "crack_type/width_R.mat"<br/>
 type/width: the type of surface or the width of the crack<br/>
 R: the number of complete repetition <br/>
+The data acquired with the sensor and the Geomagic have been synchronised using the provided timestamp.
 
-For each surface the dataset contains one matlab file:
-TBD
+For each surface the dataset contains one matlab synchronised.mat file:
+1. The position of the Geomagic on the X-axis (especially useful for plotting))
+2. The value obtained from the left part displacement (D1) of the fibre-optic sensor
+3. The value obtained from the right part displacement (D2) of the fibre-optic sensor
+4. The value obtained from the back part displacement (D3) of the fibre-optic sensor
+5. The proximity value (P) of the fibre-optic sensor
+6. The sliding movement direction of the Geomagic, 1 indicates movement from left to right and 0 indicates movement from right to left
+7. The number of complete sliding repetition (from left to right and backward), from 1 to 12
+8. The type of surface explored. For the type: 0 = flat surface, 1 = crack surface, 2 = bump surface, 3 = wavy pattern surface. 
+For the width of the crack, the size of the crack is used (e.g. 0 if no crack, 5 if a 5mm crack was explored).
+9. The number of complete repetition, from 1 to 5.
 
+![setup Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/combined_sensor_setup.png?raw=true)
 
 ### Download links
-TBD
+[Crack Width] dataset (https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/width/width.rar)
+[Surface Type] dataset (https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/type/type.rar)
 
 
 ### Info and queries
