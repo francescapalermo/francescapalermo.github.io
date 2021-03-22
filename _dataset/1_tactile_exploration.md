@@ -28,6 +28,10 @@ Tactile and proximity signals were recorded for 12 repeated continuous sliding m
 This continuous recording was repeated five times.
 
 
+Set of objects used in the acquisitions:
+![objects Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/set_object.jpg?raw=true)
+
+
 ### Acquisition Setup: 
 To collect data and test the proposed crack detection algorithm, 
 the tactile and proximity sensor has been attached to the end-effector of a Touch desktop haptic interface (formerly known as Phantom Omni Geomagic)). 
@@ -39,9 +43,6 @@ The material samples, as well as the Phantom Omni interface, were fixed to a lab
 
 
 The complete setup and implemented analysis is throughly described in the following [paper](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)
-
-Set of objects used in the acquisitions:
-![objects Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/set_object.jpg?raw=true)
 
 
 ### Information
@@ -66,10 +67,10 @@ For the width of the crack, the size of the crack is used (e.g. 0 if no crack, 5
 ![setup Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/combined_sensor_setup.png?raw=true)
 
 ### Download links
-[Crack Width](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/width/width.rar?raw=true) dataset.
+[Crack Width](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/width.rar?raw=true) dataset.
 
 
-[Surface Type](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/type/type.rar?raw=true) dataset.
+[Surface Type](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_dataset/tactile_proximity/type.rar?raw=true) dataset.
 
 
 ### Info and queries
@@ -77,7 +78,7 @@ For any enquiries, questions, concerns and general feedback, please contact [Fra
 
 
 ### Acknowledgments
-If you use the dataset, please cite the paper.
+If you use the dataset, please cite the following [paper](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full).
 Bibtext Citation: 
 
 `@article{palermo2020automatic, title={Automatic Fracture Characterization Using Tactile and Proximity Optical Sensing}, author={Palermo, Francesca and Konstantinova, Jelizaveta and Althoefer, Kaspar and Poslad, Stefan and Farkhatdinov, Ildar}, journal={Frontiers in Robotics and AI}, volume={7}, year={2020}, publisher={Frontiers Media SA}}`
