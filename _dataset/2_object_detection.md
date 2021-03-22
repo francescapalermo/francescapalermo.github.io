@@ -1,5 +1,5 @@
 ---
-title: "Annotated dracture dataset for object detection"
+title: "Annotated fracture dataset for object detection"
 collection: datasets
 type: "Dataset"
 permalink: /dataset/objectdetection

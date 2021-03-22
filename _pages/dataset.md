@@ -5,7 +5,7 @@ permalink: /dataset/
 author_profile: true
 ---
 TBD 
-For my research, I had to acquire multiple dataset to investagete the developed algorithms.
+For my research, I had to acquire multiple dataset to analyse and investigate the developed algorithms.
 
 {% include base_path %}
 
