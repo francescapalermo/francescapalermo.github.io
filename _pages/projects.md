@@ -33,7 +33,7 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 For more information, check the related papers \[[1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full)\], \[[2](https://ieeexplore.ieee.org/abstract/document/9196936)\]
 
 
-[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/UEqlDOTNtKc)
+[![Watch the video](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true)](https://www.youtube.com/embed/dbRd6R_bzNE)
 
 
 Bilateral Teleoperation Franka Panda/Geomagic Touch
