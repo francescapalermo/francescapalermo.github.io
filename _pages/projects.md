@@ -16,6 +16,42 @@ redirect_from:
 - [The Little Knight](#the-little-knight)
 
 
+
+Fracture Characterisation and Geometry for Motion Planning
+---------------
+Previously, a multi-modal system for fracture detection and localisation in extreme environments (e.g., nuclear power plant) was developed using vision techniques (e.g., object
+detection) to localise possible fractures. These coordinates are explored by a fibre optic sensor, attached as an end-effector to a manipulator, to confirm the presence of the fracture
+via online classification methods of the tactile and proximity data.
+
+The crack's image can be further analysed to extract the geometry information and to plan an optimal control tactile exploration.
+To analyse the obtained localised crack images, image processing and computer vision techniques are implemented to create a skeletonised version of the image of the fracture
+which is then transformed into a graph. 
+
+First, the acquired image of the fracture is converted to grey scale colours and then blurred with a Gaussian filter (3x3 kernel).
+The resulting image is converted to a binary image using a combination of Otsu and binary thresholds.
+Once the binary image is obtained, morphological transformations are applied to it. 
+Dilation is applied to join possible broken parts of the image of the crack.
+Then, Canny Edge detection is implemented. 
+The average of the intensities of the pixels is used to automatically construct the lower and higher threshold for edge detection.
+The resulting edges are improved with additional morphological transformations (dilation).
+Using the obtained edges, the contours of the fractures are calculated.
+Calculation of the median surface area of the contours is used to eliminate the outliers (to remove the contours areas which are much smaller than the median).
+The mask of the object is then created, which is later implemented to design a skeletonised version of the fracture.
+The pruned skeleton, to avoid small fragments, is then used to build the graph of the fracture.
+For brevity, the original image, the mask, the pruned skeleton and the graph are shown below.
+
+![graph Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/graph.png?raw=true)
+
+Middle points of the edges of the previously preliminary graph are extracted and an updated graph made up of these middle points is created. Each of this middle point is connected to
+the rest of the points via Euclidean distance. The distance is used to create the weighted edges of the graph. Knowing these coordinates and weights will be useful for the tactile
+sensors motion planning as it will be possible to define the required tactile exploration path.
+Graph theory is then applied to investigate the possible exploration path. Since the goal of the experiment is to explore all the possible nodes with the smallest cost, a revised version of
+the Minimum Spanning Tree is implemented. Each node of the graph is explored only once and the minimum path from the starting node is found.
+For each node, left and right position are included. These will later be used for the exploration of the fracture with the robotic manipulator.
+
+<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/crack_graph.gif" width="300" height="200" />
+
+
 Fracture Detection and Localisation
 ---------------	
 Developed an innovative approach involving vision and tactile sensing to detect and characterise surface cracks. 
