@@ -7,6 +7,7 @@ redirect_from:
   - /projects
 ---
 # Table of Contents
+- [Fracture Characterisation and Geometry for Motion Planning](#fracture-characterisation-and-geometry-for-motion-planning)
 - [Fracture Detection and Localisation](#fracture-detection-and-localisation)
 - [Bilateral Teleoperation Franka Panda/Geomagic Touch](#bilateral-teleoperation-franka-panda-geomagic-touch)
 - [Hololyo](#hololyo)
