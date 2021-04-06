@@ -43,16 +43,16 @@ For brevity, the original image, the mask, the pruned skeleton and the graph are
 
 ![graph Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/graph.png?raw=true)
 
-Middle points of the edges of the previously preliminary graph are extracted and an updated graph made up of these middle points is created. Each of this middle point is connected to
+Middle points (red points) of the edges of the previously preliminary graph are extracted and an updated graph made up of these middle points is created. Each of this middle point is connected to
 the rest of the points via Euclidean distance. The distance is used to create the weighted edges of the graph. Knowing these coordinates and weights will be useful for the tactile
 sensors motion planning as it will be possible to define the required tactile exploration path.
 Graph theory is then applied to investigate the possible exploration path. Since the goal of the experiment is to explore all the possible nodes with the smallest cost, a revised version of
 the Minimum Spanning Tree is implemented. Each node of the graph is explored only once and the minimum path from the starting node is found.
 For each node, left and right position are included. These will later be used for the exploration of the fracture with the robotic manipulator.
 
-![Alt Text](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/crack_graph.gif?raw=true)
-
-
+<p align="center">
+  <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/crack_graph.gif?raw=true" width="300" height="200" />
+</p>
 
 Fracture Detection and Localisation
 ---------------	
