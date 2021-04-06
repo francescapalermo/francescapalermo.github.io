@@ -51,7 +51,7 @@ the Minimum Spanning Tree is implemented. Each node of the graph is explored onl
 For each node, left and right position are included. These will later be used for the exploration of the fracture with the robotic manipulator.
 
 <p align="center">
-  <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/crack_graph.gif?raw=true" width="300" height="200" />
+  <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/crack_graph.gif?raw=true" width="450" height="300" />
 </p>
 
 Fracture Detection and Localisation
