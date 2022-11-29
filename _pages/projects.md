@@ -39,7 +39,7 @@ For brevity, the original image, the mask, the pruned skeleton and the graph are
 
 Using these coordinates and weights, minimumn spanning tree is used to create the motion planner for a robotic manipulator is defined.
 
-{% include youtube.html id="V4wEuOHeq6A" width="300" %}
+{% include youtube.html id="V4wEuOHeq6A" width="200" %}
 
 --- 
 ### Fracture Detection and Localisation
@@ -54,7 +54,7 @@ Exploring a surface using only tactile requires around 199 seconds. This time is
 This approach may be implemented also in extreme environments (e.g. in nuclear plants) since gamma radiation does not interfere with the basic sensing mechanism of fibre optic-based sensors.
 
 
-[VIDEO](https://www.youtube.com/embed/dbRd6R_bzNE)
+[VIDEO](https://www.youtube.com/embed/pMwWcbymCe0)
 
 For more information, refer to the related papers [1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full), [2](https://ieeexplore.ieee.org/abstract/document/9196936)
 
@@ -64,7 +64,7 @@ For more information, refer to the related papers [1](https://www.frontiersin.or
   <img border="0" alt="teleop" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true" width="600">
   </a>
 </p> -->
-{% include youtube.html id="dbRd6R_bzNE" width="400" %}
+{% include youtube.html id="pMwWcbymCe0" width="200" %}
 
 
 
@@ -75,16 +75,17 @@ Developed the master side in C++ of a bilateral teleoperation system between Geo
 The system consists of a hybrid position and rate control modes with interoperability protocol.
 
 
-[VIDEO](https://www.youtube.com/embed/QcAdntJHpo8)
+[VIDEO](https://www.youtube.com/embed/Ac61swGGWGo)
 
 For more information, refer to the [paper](https://link.springer.com/chapter/10.1007/978-3-030-23807-0_26)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/embed/QcAdntJHpo8">
   <img border="0" alt="teleop" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/positioncontrol.jpg?raw=true" width="400">
   </a>
-</p>
+</p> -->
 
+{% include youtube.html id="Ac61swGGWGo" width="200" %}
 
 
 --- 
@@ -114,13 +115,15 @@ The project is created with two different applications which collaborates with e
 The NAO is able to recognize a set of words in any sentence and executes multiple commands at the same time.
 
 
-[CODE](https://sites.google.com/view/nao-interface) - [VIDEO](https://www.youtube.com/embed/1wWJvQwiVUg)
+[CODE](https://sites.google.com/view/nao-interface) - [VIDEO](https://www.youtube.com/embed/Ny3woGSCwT4)
 
-<p align="center">
-  <a href="https://www.youtube.com/embed/1wWJvQwiVUg">
+{% include youtube.html id="Ny3woGSCwT4" width="200" %}
+
+<!-- <p align="center">
+  <a href="https://www.youtube.com/embed/Ny3woGSCwT4">
   <img border="0" alt="nao" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/nao.png?raw=true" width="400">
   </a>
-</p>
+</p> -->
 
 
 <!-- --- 
