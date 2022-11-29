@@ -12,8 +12,6 @@ redirect_from:
 - [Bilateral Teleoperation Franka Panda and Geomagic](#bilateral-teleoperation-franka-panda-and-geomagic)
 - [Hololyo](#hololyo)
 - [Nao Interface](#nao-interface)
-<!-- - [EEG Classification and Analysis](#eeg-classification-and-analysis)
-- [Motion Reconfiguration for Kuka Manipulator via Visual Servoing](#motion-reconfiguration-for-kuka-manipulator-via-visual-servoing) -->
 - [The Little Knight](#the-little-knight)
 
 
@@ -41,7 +39,7 @@ For brevity, the original image, the mask, the pruned skeleton and the graph are
 
 Using these coordinates and weights, minimumn spanning tree is used to create the motion planner for a robotic manipulator is defined.
 
-{% include youtube.html id="tgbNymZ7vqY" width="400" %}
+{% include youtube.html id="V4wEuOHeq6A" width="300" %}
 
 --- 
 ### Fracture Detection and Localisation
@@ -61,11 +59,12 @@ This approach may be implemented also in extreme environments (e.g. in nuclear p
 For more information, refer to the related papers [1](https://www.frontiersin.org/articles/10.3389/frobt.2020.513004/full), [2](https://ieeexplore.ieee.org/abstract/document/9196936)
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/embed/dbRd6R_bzNE">
   <img border="0" alt="teleop" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true" width="600">
   </a>
-</p>
+</p> -->
+{% include youtube.html id="dbRd6R_bzNE" width="400" %}
 
 
 

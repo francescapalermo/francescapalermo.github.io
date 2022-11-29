@@ -10,18 +10,17 @@ redirect_from:
 {% include base_path %}
 
 # Table of Contents
-- [Education](#education)
 - [Work experience](#work-experience)
+- [Education](#education)
 - [Publications](#publications)
 - [Awards](#awards)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
 
-
 For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
-Work experience <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true" width="48"> 
-======
+## Work experience <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true" width="48"> 
+
 * June 2021 - Current: Machine Learning Research Associate, Queen Mary University of London, London, UK.
   * Developed **recurrent deep learning** models on personalised data (activity, sleep and physiologycal data) from from remotely monitored environments to detect health-related episodes in people living with dementia.
   * Introduced methods to overcome the limitations of the employed technology, reducing missing data by 5% and leading to **vastly improved** data quality within only six weeks. 
@@ -51,8 +50,8 @@ Work experience <img src="https://github.com/francescapalermo/francescapalermo.g
   * In collaboration with the project MeganePro (myoelectric hand prosthesis)
 
 
-Education <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true" width="48">
-======
+## Education <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true" width="48">
+
 * Ph.D. Fellow in Electronics Engineering and Computer Science, EECS School, Queen Mary University of London, London, UK, 2018-December 2021
   * **Project Proposal**: Robotic surface exploration algorithm developed in **Python** and **C++** implementing **vision techniques** (object detection, edge detection) and **tactile sensing** based on force and proximity sensors for fractures detection and characterisation in extreme environments. 
   * Research funded by the National Centre for Nuclear Robotics (NCNR)
@@ -72,15 +71,15 @@ Education <img src="https://github.com/francescapalermo/francescapalermo.github.
   * Analysis and development of spiking neural network Izhikevich models
 
 
-Publications <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
-======
+## Publications <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true" width="48"> 
-======
+## Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true" width="48"> 
+
 * Data Visualisation Competition, UKDRI, April 2022:
   * Awarded **first** prize for the most beautiful data visualisation which conveyed the essence of UKDRI research.
 
@@ -103,16 +102,15 @@ Awards <img src="https://github.com/francescapalermo/francescapalermo.github.io/
   * Awarded **scholarship** of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
 
 
-Technical Skills <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
-======
-## Languages:
+## Technical Skills <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
+#### Programming Languages:
 * Python
 * C++
 * C#
 * Matlab
 * Java
 
-## Tools:
+#### Tools:
 * Python Libraries: 
   * PyTorch
   * Tensorflow
@@ -126,8 +124,8 @@ Technical Skills <img src="https://github.com/francescapalermo/francescapalermo.
 * Visual Studio
 * Android Studio
 
-Languages <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
-======
+## Languages <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
+
 * Italian (Native)
 * English (Advanced)
 * French (Intermediate)
