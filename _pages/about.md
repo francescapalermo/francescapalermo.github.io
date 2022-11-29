@@ -48,7 +48,7 @@ For further information, please refer to the [projects](projects) page.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg?raw=true" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg?raw=true" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg?raw=true" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
