@@ -38,9 +38,9 @@ For brevity, the original image, the mask, the pruned skeleton and the graph are
 ![graph Image](https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/graph.png?raw=true)
 
 Using these coordinates and weights, minimumn spanning tree is used to create the motion planner for a robotic manipulator is defined.
-
-{% include youtube.html id="V4wEuOHeq6A" width="200" %}
-
+<p align="center">
+  {% include youtube.html id="V4wEuOHeq6A" width="200" %}
+</p>
 --- 
 ### Fracture Detection and Localisation
 	
@@ -64,7 +64,10 @@ For more information, refer to the related papers [1](https://www.frontiersin.or
   <img border="0" alt="teleop" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/multi_modal_algorithm_horizontal_complete.png?raw=true" width="600">
   </a>
 </p> -->
-{% include youtube.html id="pMwWcbymCe0" width="200" %}
+<p align="center">
+  {% include youtube.html id="pMwWcbymCe0" width="200" %}
+</p>
+
 
 
 
@@ -84,8 +87,9 @@ For more information, refer to the [paper](https://link.springer.com/chapter/10.
   <img border="0" alt="teleop" src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/positioncontrol.jpg?raw=true" width="400">
   </a>
 </p> -->
-
-{% include youtube.html id="Ac61swGGWGo" width="200" %}
+<p align="center">
+  {% include youtube.html id="Ac61swGGWGo" width="200" %}
+</p>
 
 
 --- 
@@ -117,7 +121,9 @@ The NAO is able to recognize a set of words in any sentence and executes multipl
 
 [CODE](https://sites.google.com/view/nao-interface) - [VIDEO](https://www.youtube.com/embed/Ny3woGSCwT4)
 
-{% include youtube.html id="Ny3woGSCwT4" width="200" %}
+<p align="center">
+  {% include youtube.html id="Ny3woGSCwT4" width="200" %}
+</p>
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/embed/Ny3woGSCwT4">
