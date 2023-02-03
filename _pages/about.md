@@ -17,6 +17,7 @@ My current research focuses on detecting health related episodes in people livin
 I previously worked on surface exploration for fracture detection and localisation in extreme environments (e.g., nuclear power plant) using vision techniques (e.g., object detection) to first localise the possible cracks which are then explored with a fibre optic sensor, attached as an end-effector to a robotic manipulator.
 I have collaborated in the past to the [NinaPro](http://ninapro.hevs.ch/) and [MeganePro](http://ninapro.hevs.ch/MeganePro) project, acquiring DB6 to analyse the repeatability of sEMG classification of hand grasps.
 
+As a Ph.D. graduate in engineering with a focus on machine learning, I have extensive knowledge of deep learning techniques and architectures. I have worked on projects related to supervised learning, object detection, semantic & instance segmentation, and 3D reconstruction, and am proficient in Python, PyTorch, and TensorFlow.
 For further information, please refer to the [projects](projects) page.
 
 ---
