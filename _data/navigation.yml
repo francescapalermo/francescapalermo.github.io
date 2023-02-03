@@ -4,23 +4,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/  
+  - title: "Projects"
+    url: /projects/    
+
+  - title: "Dataset"
+    url: /dataset/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Dataset"
-    url: /dataset/
-  #- title: "Talks"
-  #  url: /talks/  
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Publications"
+    url: /publications/  
