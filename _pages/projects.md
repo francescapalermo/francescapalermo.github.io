@@ -14,6 +14,17 @@ redirect_from:
 - [Nao Interface](#nao-interface)
 - [The Little Knight](#the-little-knight)
 
+### Create Enemy Behaviour with C# in Unity 
+Developed enemy behavior tree following the Coursera course [Create enemy behaviour C# Unity](https://www.coursera.org/projects/create-simple-enemy-behaviour-c-sharp-unity-intro-ai). Learned how to make enemy characters patrol an area, chase a player in range and attack. 
+Learned how to build a behavior tree expanding the following Unity concepts:
+- Transform-based movement
+- Rigidbody collisions and triggers
+- Interfaces
+- Events
+
+<p align="center">
+  <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/_projects/enemy_ai.png?raw=true" alt="littleknight" width="500"/>
+</p>
 
 --- 
 ### Fracture Characterisation and Geometry for Motion Planning
@@ -41,6 +52,7 @@ Using these coordinates and weights, minimumn spanning tree is used to create th
 <p align="center">
   {% include youtube.html id="V4wEuOHeq6A" width="200" %}
 </p>
+
 --- 
 ### Fracture Detection and Localisation
 	
@@ -68,9 +80,6 @@ For more information, refer to the related papers [1](https://www.frontiersin.or
   {% include youtube.html id="pMwWcbymCe0" width="200" %}
 </p>
 
-
-
-
 --- 
 ### Bilateral Teleoperation Franka Panda and Geomagic
 
@@ -90,7 +99,6 @@ For more information, refer to the [paper](https://link.springer.com/chapter/10.
 <p align="center">
   {% include youtube.html id="Ac61swGGWGo" width="200" %}
 </p>
-
 
 --- 
 ### Hololyo
