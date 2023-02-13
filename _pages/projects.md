@@ -14,6 +14,18 @@ redirect_from:
 - [Nao Interface](#nao-interface)
 - [The Little Knight](#the-little-knight)
 
+
+### First Order Motion Model for Image Animation Real-Time Implementation
+An example of a real-time application I have developed built on top of the groundbreaking work of [Aliaksandr Siarohin et al.](https://aliaksandrsiarohin.github.io/).
+The original first-order model allowed for the generation of highly realistic animations using offline videos.
+
+In this updated version, I have developed the code to run the model in real-time using the stream from a webcam, without retraining the model.
+While this is just a first test of the application, there is still a lot of room for improvement and to continue exploring the capabilities of this technology.
+
+<p align="center">
+  {% include youtube.html id="Egf0pe4wPgA" width="200" %}
+</p>
+
 ### Create Enemy Behaviour with C# in Unity 
 Developed enemy behavior tree following the Coursera course [Create enemy behaviour C# Unity](https://www.coursera.org/projects/create-simple-enemy-behaviour-c-sharp-unity-intro-ai). Learned how to make enemy characters patrol an area, chase a player in range and attack. 
 Learned how to build a behavior tree expanding the following Unity concepts:
