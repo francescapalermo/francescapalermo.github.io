@@ -153,10 +153,6 @@ ___
 ## Publications 
 For a full list of publications, please refer to my [Google Scholar Profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
 
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
 Below a list of my most recents publications. 
 {% include publications %}
 
