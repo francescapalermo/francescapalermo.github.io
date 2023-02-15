@@ -12,10 +12,10 @@ redirect_from:
 # Table of Contents
 - [Work experience](#work-experience)
 - [Education](#education)
-- [Publications](#publications)
 - [Awards](#awards)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
+- [Publications](#publications)
 
 For an updated CV please click [here](https://www.dropbox.com/s/jfifkmryddqmnb8/Resume_FrancescaPalermo.pdf?dl=0)
 
@@ -78,18 +78,6 @@ ___
     * “The Little Knight”. Game based on **WebGL** using **Javascript** library (Three.js).
 * B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome, Italy, Italian Mark 95/110, 2010-2014
   * Analysis and development of spiking neural network Izhikevich models
-
-
-___
-
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
-
-## Publications 
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
 ___
 
@@ -158,6 +146,20 @@ ___
 * Japanese (Basic)
   
   
-  
+___
+
+<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
+
+## Publications 
+For a full list of publications, please refer to my [Google Scholar Profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
+
+  <!-- <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+   -->
+Below a list of my most recents publications. 
+{% include publications %}
+
+___
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
