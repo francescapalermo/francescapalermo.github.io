@@ -145,44 +145,118 @@ ___
 
 ## Technical Skills 
 
-<table>
-  <tr>
-    <th> Programming Languages </th>
-    <th> Tools </th>
-  </tr>
-  
-  <tr>
-    <td>
+<html>
+  <head>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-  * Python
-    * PyTorch
-    * Tensorflow
-    * OpenCV
-    * Pandas
-    * Seaborn
-    * Networkx
-    * Matplotlib
-    * Numpy
-  * C++
-  * C#
-  * Matlab
-  * Java
+      .row {
+        display: flex;
+        margin-left:-5px;
+        margin-right:-5px;
+      }
 
-  </td>
-  
-    <td>
+      .column {
+        flex: 50%;
+        padding: 5px;
+      }
 
-    * Visual Studio Code
-    * Visual Studio
-    * Git
-    * ROS
-    * Unity
-    * Latex
-    * Android Studio
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        border: 1px solid #ddd;
+      }
 
-    </td>
-  </tr>
-</table>
+      th, td {
+        text-align: left;
+        padding: 16px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+    </style>
+  </head>
+<body>
+
+<h2> Technical Skills </h2>
+
+<div class="row">
+  <div class="column">
+    <table>
+      <tr>
+        <th>Programming Languages</th>
+        <th></th>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>PyTorch, Tensorflow, OpenCV, Pandas, Seaborn, Networkx, Matplotlib, Numpy</td>
+      </tr>
+      
+      <tr>
+        <td>C++</td>
+        <td></td>
+      </tr>
+      
+      <tr>
+        <td>C#</td>
+        <td></td>
+      </tr>
+      
+      <tr>
+        <td>Matlab</td>
+        <td></td>
+      </tr>
+      
+      <tr>
+        <td>Java</td>
+        <td></td>
+      </tr>      
+    </table>
+  </div>
+  <div class="column">
+    <table>
+      <tr>
+        <th>Programming Tools</th>
+        <th></th>
+      </tr>
+      <tr>
+        <td>Visual Studio Code</td>
+      </tr>
+      
+      <tr>
+        <td>Visual Studio</td>
+      </tr>
+      
+      <tr>
+        <td>Git</td>
+      </tr>
+      
+      <tr>
+        <td>ROS</td>
+      </tr>
+      
+      <tr>
+        <td>Unity</td>
+      </tr>
+      
+      <tr>
+        <td>Latex</td>
+      </tr>  
+      
+      <tr>
+        <td>Android Studio</td>
+      </tr>  
+    </table>
+  </div>
+</div>
+
+</body>
+</html>
 
 ### Programming Languages:
 * Python
