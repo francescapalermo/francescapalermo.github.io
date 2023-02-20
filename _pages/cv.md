@@ -173,17 +173,17 @@ ___
       th, td {
         text-align: left;
         padding: 16px;
+        border-style : hidden!important;
       }
 
       tr:nth-child(even) {
-        background-color: #f2f2f2;
+        background-color: #cfdfff;
       }
 
     </style>
   </head>
 <body>
 
-<h2> Technical Skills </h2>
 
 <div class="row">
   <div class="column">
@@ -257,31 +257,6 @@ ___
 
 </body>
 </html>
-
-### Programming Languages:
-* Python
-  * PyTorch
-  * Tensorflow
-  * OpenCV
-  * Pandas
-  * Seaborn
-  * Networkx
-  * Matplotlib
-  * Numpy
-* C++
-* C#
-* Matlab
-* Java
-
-### Tools:
-* Visual Studio Code
-* Visual Studio
-* Git
-* ROS
-* Unity
-* Latex
-* Android Studio
-
 
 ___
 
