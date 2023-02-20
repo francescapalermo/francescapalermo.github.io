@@ -15,8 +15,6 @@ redirect_from:
 - [Awards](#awards)
 - [Portfolio](#portfolio)
 - [Technical Skills](#technical-skills)
-  * [Programming Languages:](#programming-languages-)
-  * [Tools:](#tools-)
 - [Languages](#languages)
 - [Publications](#publications)
 
@@ -146,6 +144,46 @@ ___
 <img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
 
 ## Technical Skills 
+
+<table>
+  <tr>
+    <th> Programming Languages </th>
+    <th> Tools </th>
+  </tr>
+  
+  <tr>
+    <td>
+
+  * Python
+    * PyTorch
+    * Tensorflow
+    * OpenCV
+    * Pandas
+    * Seaborn
+    * Networkx
+    * Matplotlib
+    * Numpy
+  * C++
+  * C#
+  * Matlab
+  * Java
+
+  </td>
+  
+    <td>
+
+    * Visual Studio Code
+    * Visual Studio
+    * Git
+    * ROS
+    * Unity
+    * Latex
+    * Android Studio
+
+    </td>
+  </tr>
+</table>
+
 ### Programming Languages:
 * Python
   * PyTorch
