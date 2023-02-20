@@ -167,7 +167,7 @@ ___
         border-collapse: collapse;
         border-spacing: 0;
         width: 100%;
-        border: 1px solid #ddd;
+        border: 0px solid #ddd;
       }
 
       th, td {
