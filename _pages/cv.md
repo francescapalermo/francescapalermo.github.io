@@ -177,7 +177,7 @@ ___
       }
 
       tr:nth-child(even) {
-        background-color: #cfdfff;
+        background-color: #DFEAFF;
       }
 
     </style>
@@ -187,7 +187,7 @@ ___
 
 <div class="row">
   <div class="column">
-    <table>
+  <table border="0" cellpadding="0" cellspacing="0">
       <tr>
         <th>Programming Languages</th>
         <th></th>
