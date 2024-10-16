@@ -29,13 +29,21 @@ ___
 ## Employment 
 
 
-* June 2021 - Current: Machine Learning Research Associate, Imperial College London, UK.
+* Jun 2023 - Present: Machine Learning and Computer Vision Principal Investigator, EssilorLuxottica, Milan, Italy
+  * Research machine learning models optimized for embedded deployment on microcontrollers, focusing on context recognition for smart eyewear.
+  * Lead 7 projects and the computer vision team, guiding research for smart eyewear technologies.
+  * Focus on efficient deployment of computer vision applications for edge devices.
+  * Identify potential patents for innovative works (submitted 6 patents).
+  * Author papers on novel research in the field of machine learning and computer vision (3 papers).
+
+
+* June 2021 - Present: Machine Learning Research Associate, Imperial College London, UK.
   * Developed applications in PyTorch and Tensorflow of **deep learning models** (LSTM, Autoencoders) to time-series personalised data collected from remotely monitored environments for detecting health-related episodes in people with dementia.
   * Improved the quality of the data, reducing missing data by 5% within a few weeks.
   * Assisted the laboratories for Machine Learning for Neuroscience module and marked the assignments. [Material available on Github](https://github.com/PBarnaghi/ML4NS).
 
 
-* September 2018 - Current: Teaching Assistant, Queen Mary University of London, UK.
+* September 2018 - December 2023: Teaching Assistant, Queen Mary University of London, UK.
   * Delivered lectures, practical sessions and marked assignments on Machine Learning and Data Mining to classes from 30 to 200 undergraduate and postgraduate students.
   * Led small group tutorials and provided one-on-one support to students, helping them to understand complex concepts and apply them in practical settings.
 
