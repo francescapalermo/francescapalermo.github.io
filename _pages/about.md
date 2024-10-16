@@ -7,21 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!<br/>
-I am a Machine Learning Research Associate at Imperial College London working for the Care Research and Technology Centre (CR&T) of [UK Dementia Research Institute](https://ukdri.ac.uk/) (UKDRI) and I am currently a member of [Barnaghi Lab](https://barnaghi-machine-intelligence-lab.github.io/).
-I was recently awarded my Ph.D. from the [Advanced Robotics Lab](https://www.qmul.ac.uk/robotics/) and [HAIR robotics Lab](https://hair-robotics.qmul.ac.uk/)
-at the School of Electronics Engineering and Computer Science, Queen Mary University of London, United Kingdom. 
-My Ph.D. was sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), a project which aim was to develop cutting-edge technology to solve the problem of nuclear waste. <br/> 
+# Welcome!  
+I am a PI Machine Learning Researcher at EssilorLuxottica's Smart Eyewear Lab, where I work at the intersection of Computer Vision, Deep Learning, and Embedded Software. My research focuses on advancing the intelligence and functionality of smart eyewear technologies by applying deep learning and computer vision techniques.
 
-My current research focuses on detecting health related episodes in people living with dementia by applying recurrent deep learning models on personalised data (activity, sleep and physiologycal data).
-I previously worked on surface exploration for fracture detection and localisation in extreme environments (e.g., nuclear power plant) using vision techniques (e.g., object detection) to first localise the possible cracks which are then explored with a fibre optic sensor, attached as an end-effector to a robotic manipulator.
-I have collaborated in the past to the [NinaPro](http://ninapro.hevs.ch/) and [MeganePro](http://ninapro.hevs.ch/MeganePro) project, acquiring DB6 to analyse the repeatability of sEMG classification of hand grasps.
+In the past, I have been a Machine Learning Research Associate at Imperial College London, working for the Care Research and Technology Centre (CR&T) of the [UK Dementia Research Institute](https://ukdri.ac.uk/) (UKDRI), and a member of the [Barnaghi Lab](https://barnaghi-machine-intelligence-lab.github.io/).
 
-As a Ph.D. graduate in engineering with a focus on machine learning, I have extensive knowledge of deep learning techniques and architectures. I have worked on projects related to supervised learning, object detection, semantic & instance segmentation, and 3D reconstruction, and am proficient in Python, PyTorch, and TensorFlow.
+I was awarded my Ph.D. from the [Advanced Robotics Lab](https://www.qmul.ac.uk/robotics/) and [HAIR Robotics Lab](https://hair-robotics.qmul.ac.uk/) at the School of Electronics Engineering and Computer Science, Queen Mary University of London, United Kingdom. My Ph.D. was sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), focusing on developing cutting-edge technology to solve the problem of nuclear waste.
+
+My current research at EssilorLuxottica focuses on extracting context information from smart eyewear devices by applying optimized computer vision and deep learning techniques. Additionally, I oversee the Computer Vision team at Politecnico, guiding their work in developing innovative solutions for smart eyewear technologies. 
+
+In previous research, as a Machine Learning Research Associate at Imperial College London, I specialized in detecting health-related episodes in people living with dementia by applying recurrent deep learning models to personalized data (activity, sleep, and physiological data). I also worked on surface exploration for fracture detection in extreme environments (e.g., nuclear power plants), using vision techniques such as object detection to localize cracks that were then explored with a fiber optic sensor attached to a robotic manipulator.
+
+In addition to my role at EssilorLuxottica and Imperial College, my earlier career involved several research initiatives. I contributed to the [NinaPro](http://ninapro.hevs.ch/) and [MeganePro](http://ninapro.hevs.ch/MeganePro) projects, acquiring DB6 to analyze the repeatability of sEMG classification of hand grasps. I also worked as a Computer Vision Intern at the Tokyo University of Agriculture and Technology, where I developed a multi-modal fusion model for surface fracture detection, and as a Research Assistant at HES-SO Valais-Wallis, where I applied machine learning and computer vision techniques in healthcare.
+
+As a Ph.D. graduate in engineering with a focus on machine learning, I possess extensive knowledge of deep learning techniques and architectures. I have worked on supervised learning, object detection, semantic and instance segmentation, and 3D reconstruction, with proficiency in Python, PyTorch, and TensorFlow.
+
 For further information, please refer to the [projects](projects) page.
-
 ---
 ### :computer: Main research:
+  - Context Recognition
   - Machine learning for Healthcare
   - Image Classification
   - Object Detection
