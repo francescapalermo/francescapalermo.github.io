@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # Welcome!  
-I am a Principal Investigator (Machine Learning and Computer Vision) at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/), where I work at the intersection of Computer Vision, Deep Learning, and Embedded Software. My research focuses on advancing the intelligence and functionality of smart eyewear technologies by applying optimized deep learning and computer vision techniques.
+I am a Machine Learning and Computer Vision Scientist at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/), where I work at the intersection of Computer Vision, Deep Learning, and Embedded Software. My research focuses on advancing the intelligence and functionality of smart eyewear technologies by applying optimized deep learning and computer vision techniques for context recogntion.
 
 In this role, I supervise the Computer Vision team at Politecnico and oversee 7 ongoing projects aimed at developing innovative solutions for smart eyewear. My current focus is on researching machine learning models optimized for embedded deployment on microcontrollers, targeting context recognition for smart eyewear. I also drive efforts to identify innovative patents, having submitted 6 patents, and regularly contribute to the academic community with publications, authoring 3 research papers so far in this role.
 
@@ -34,7 +34,7 @@ For further information, please refer to the [projects](projects) page.
   - Learning from Noisy Data
   - Haptic Exploration 
 
-:seedling: I am currently learning how to develop with Unreal Engine and modelling and animate in Blender
+:seedling: I am currently learning how to develop robust LLM models. On the side, I am working with Unreal Engine and modelling and animate in Blender
 
 :mailbox:You can connect here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesca-palermo-a9107a40/)
 
