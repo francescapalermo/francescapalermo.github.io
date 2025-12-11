@@ -4,7 +4,6 @@ title: "Activities"
 permalink: /activities/
 author_profile: true
 ---
-# Activities
 
 This page lists invited talks, workshops, conferences, outreach activities, and other academic engagements.
 
