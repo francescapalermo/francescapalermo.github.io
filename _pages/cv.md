@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](https://www.dropbox.com/s/nv8glf430aotrr6/Resume_FrancescaPalermo.pdf?dl=0){: .btn .btn--primary .btn--large}
+
+---
+
 # Table of Contents
 - [Employment](#employment)
 - [Education](#education)
@@ -16,285 +20,130 @@ redirect_from:
 - [Portfolio](#portfolio)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
-- [Publications](#publications)
+- [Publications](#publications
+___
 
-For an updated CV please click [here](https://www.dropbox.com/s/nv8glf430aotrr6/Resume_FrancescaPalermo.pdf?dl=0)
+## Employment
 
+### Jun 2023 – Present · Machine Learning and Computer Vision Scientist, EssilorLuxottica, Milan, Italy  
+- On-device **computer vision** for smart eyewear: context recognition, ego-action recognition (miniROAD), human pose and face keypoints (YOLO-Pose), and SLAM (ORB-SLAM3).  
+- **Edge deployment and TinyML**: 75% model size reduction with at least 80% accuracy.  
+- Lead collaboration with **Politecnico di Milano** and co-lead project with **Meta** on on-device, camera-based context recognition.  
+- Explore **biomarkers from RGB eye imaging**; initiate projects on non-invasive glucose monitoring and anaemia detection.  
+- Build reproducible pipelines in **Python** (PyTorch, OpenCV, Pandas) with **Docker** and **GCP** (Vertex AI, Buckets).  
+- Manage and supervise **two researchers**; drive IP and publications (7 patents submitted, 5 peer-reviewed papers; workshops at ICCV and IJCNN). :contentReference[oaicite:0]{index=0}  
 
+---
+
+### Jun 2021 – May 2023 · Machine Learning Research Associate, Imperial College London, UK  
+- Developed **deep learning models** (LSTM, autoencoders) in PyTorch and TensorFlow for personalised time-series and longitudinal clinical data (NHS) to detect health-related episodes in dementia.  
+- Improved data quality by reducing missing data by 5% within weeks.  
+- Proposed methods for **explainability** and robust learning from unreliable data using **SHAP values**.  
+- Contributed to securing a **Wellcome Trust** grant for the research group. :contentReference[oaicite:1]{index=1}  
+
+---
+
+### Feb 2020 – May 2020 · Computer Vision Intern, Tokyo University of Agriculture and Technology, Japan  
+- Implemented a TensorFlow **multi-modal fusion model** for object detection (Faster R-CNN, YOLO), fusing visual and tactile signals and resulting in two publications. :contentReference[oaicite:2]{index=2}  
+
+---
+
+### Jul 2017 – Jun 2018 · Machine Learning Researcher, HES-SO, Switzerland  
+- Applied **machine learning** and **computer vision** to healthcare:  
+  - Augmented Reality training environment (Unity, Microsoft Hololens) for amputees, using MYO IMU data.  
+  - Analysis of **hand movement recognition repeatability** with sEMG and ML classification.  
+  - **Image segmentation** of >2000 CT lung and breast images for cancer pattern analysis. :contentReference[oaicite:3]{index=3}  
+
+---
+
+### Oct 2016 – Jan 2017 · Machine Learning Intern, HES-SO, Switzerland  
+- Worked on the MeganePro project: acquired, preprocessed, synchronised, filtered, and classified sEMG data using **Random Forests**.  
+- Published in a rank A conference; **Runner-up Best Student Award**. :contentReference[oaicite:4]{index=4}  
 
 ___
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/026-working.png?raw=true" width="48"> 
+## Education
 
-## Employment 
+### Ph.D. in Electronics Engineering and Computer Science  
+**Queen Mary University of London, UK** · Jul 2018 – Sep 2022  
 
+- Multi-modal **robotic exploration** for fracture detection in extreme environments (NCNR collaboration).  
+- **Object detection** (Faster R-CNN, YOLO) in TensorFlow for crack localisation from video.  
+- OpenCV pipeline for crack skeleton extraction and path planning via minimum spanning trees.  
+- Implemented in **Python**, **C++**, and **ROS**; used CNNs and Random Forests for tactile and proximity sensor data.  
+- Ph.D. representative for ~20 researchers; mentored three master students; selected for **Google Get Ahead 2020**; involved in STEM outreach. :contentReference[oaicite:5]{index=5}  
 
-* Jun 2023 - Present: Machine Learning and Computer Vision Principal Investigator, EssilorLuxottica, Milan, Italy
-  * Research machine learning models optimized for embedded deployment on microcontrollers, focusing on context recognition for smart eyewear.
-  * Lead 7 projects and the computer vision team, guiding research for smart eyewear technologies.
-  * Focus on efficient deployment of computer vision applications for edge devices.
-  * Identify potential patents for innovative works (submitted 6 patents).
-  * Author papers on novel research in the field of machine learning and computer vision (3 papers).
+---
 
+### M.Sc. in Artificial Intelligence and Robotics  
+**University of Rome “La Sapienza”, Italy** · Jan 2015 – May 2017 · Mark 110/110  
 
-* June 2021 - Present: Machine Learning Research Associate, Imperial College London, UK.
-  * Developed applications in PyTorch and Tensorflow of **deep learning models** (LSTM, Autoencoders) to time-series personalised data collected from remotely monitored environments for detecting health-related episodes in people with dementia.
-  * Improved the quality of the data, reducing missing data by 5% within a few weeks.
-  * Assisted the laboratories for Machine Learning for Neuroscience module and marked the assignments. [Material available on Github](https://github.com/PBarnaghi/ML4NS).
+- Machine learning for **grasp recognition** from sEMG for robotic hand control.  
+- Android application for vocal control of a Nao robot (client–server).  
+- WebGL videogame using **Three.js** and a project on **Kuka manipulator pose control** via mutual-information visual servoing.  
 
+---
 
-* September 2018 - December 2023: Teaching Assistant, Queen Mary University of London, UK.
-  * Delivered lectures, practical sessions and marked assignments on Machine Learning and Data Mining to classes from 30 to 200 undergraduate and postgraduate students.
-  * Led small group tutorials and provided one-on-one support to students, helping them to understand complex concepts and apply them in practical settings.
+### B.Sc. in Computer and Automation Engineering  
+**University of Rome “La Sapienza”, Italy** · 2011 – 2014 · Mark 95/110  
 
-
-* February 2020 - May 2020: Computer Vision Intern, Tokyo University of Agriculture and Technology, Japan.
-  * Developed a Tensorflow **multi-modal fusion model** for object detection (Faster R-CNN), combining visual and tactile features, resulting in two publications.
-
-
-* May 2019 - June 2019: Machine Learning Assistant, Ocado Technology, UK.
-  * Labelled videos human-robots interactions for use in maintenance assistance robot projects.
-
-
-* July 2017 - June 2018: Machine Learning Assistant, Haute école spécialisée de Suisse occidentale, Switzerland.
-  * Applied machine learning and computer vision techniques to healthcare projects:
-    1. Developed Hololyo, an **Augmented Reality** environment using Unity and Microsoft Hololens, to provide visual feedback to amputees during the training of arm prostheses. Utilised IMU data from MYO bracelets to control a virtual rigged hand.
-    2. Investigated the repeatability of hand movement recognition for the control of robotic prostheses using sEMG data and **machine learning classification** techniques.
-    3. Applied **image segmentation** techniques to more than 2000 CT lung images for medical imaging analysis, extracting features using Matlab to identify patterns that could be used for cancer prediction.
-
-
-* October 2016 - January 2017: Machine Learning Intern, Haute école spécialisée de Suisse occidentale, Switzerland.
-  -	Collaborated with the MeganePro project team. Acquired an openly available database of sEMG data, consisting of a total of 100 acquisitions from 10 subjects.
-  -	Applied preprocessing techniques, synchronised and filtered the data, and applied machine learning classification techniques (Random Forest).
-  -	Published a paper in rank A conference. Finalist for the Best Student Award.
+- Thesis on **Izhikevich spiking neural network models**.  
 
 ___
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/037-graduated.png?raw=true" width="48">
+## Awards
 
-## Education 
-
-
-* July 2018 - September 2022: Ph.D. PhD Fellow in Electronics Engineering and Computer Science, Advanced Robotics Laboratory, Queen Mary University of London, UK.
-  -	Collaborated with the National Centre for Nuclear Robotics for developing a multi-modal robotic surface exploration algorithm for detecting and characterising fractures in extreme environments.
-  -	Implemented **object detection algorithms** (Faster R-CNN, YOLO) in Tensorflow to localise a crack in the environment using the video stream from a camera.
-  -	Developed an **OpenCV** algorithm for extracting a skeleton version from an image of a crack and using a minimum spanning tree graph to calculate the shortest path for exploring the crack.
-  -	Implemented the algorithm in **Python** and **C++**, and used machine learning techniques (Faster R-CNN, YOLO, CNN, Random Forest) to localise the crack and classify the data acquired via a force and proximity robotic sensor.
-  -	PhD representative for the 20 students in the Advanced Robotics Laboratory, **organised** biweekly meetings and **mentored** three master students during their final projects.
-  -	Participated in the Google Get Ahead 2020 program, an invitation-only program.
-  -	Presented demos and projects in outreach activities (Strategy 2030 and Open Days) to **promote** STEM to the public.
-
-
-* January 2015 - May 2017: M.Sc. in Artificial Intelligence and Robotics, University of Rome "La Sapienza", Italy, Mark 110/110.
-  -	Implemented **machine learning** techniques (feature extraction, classification) to analyse the repeatability of grasp recognition for robotic hand control based on surface electromyography data.
-  -	Developed a mobile application for **Android** that allows the user to send vocal commands and control a Nao Robot, through a client-server connection.
-  -	Developed "The Little Knight", a videogame based on **WebGL** using the Javascript library (Three.js).
-  - Developed an algorithm for **controlling the pose** of a Kuka manipulator via Mutual-Information Based on Visual Servoing.
-
-
-* October 2011 - December 2014: B.Sc. in Computer and Automation Engineering, University of Rome "La Sapienza", Rome, Italy, Italian Mark 95/110, 2010-2014
-  * Analysis and development of spiking neural network Izhikevich models
-
+- **Data Visualisation Competition**, UK Dementia Research Institute (2022) – First prize.  
+- **CORSMAL Challenge**, ICPR 2020 – First prize (team); computer vision and ML for container capacity estimation.  
+- **Japan Student Services Organization Scholarship**, TUAT (2020) – Scholarship for three-month internship.  
+- **Best Master Thesis on Disability**, University of Rome “La Sapienza” (2019).  
+- **Programmer Award**, VVV18 Winter School on Humanoid Robot Programming (2018).  
+- **Swiss-European Mobility Programme and HES-SO Grant**, HES-SO (2016). :contentReference[oaicite:6]{index=6}  
 
 ___
-
-
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/027-trophy.png?raw=true" width="48"> 
-
-## Awards 
-
-
-* Data Visualisation Competition, UKDRI, April 2022:
-  * Awarded **first** prize for the data visualisation competition.
-
-
-* CORSMAL Challenge 2020, ICPR 2020, November 2020:
-  * Awarded **first** prize as a member of a four-person team. 
-Accurately estimated containers' capacity via computer vision and machine learning techniques. Led the team in organising meetings and managing workload to complete the project.
-
-
-* Japan Student Services Organization (JASSO) Scholarship, Tokyo University of Agriculture and Technology, February 2020: 
-  * Awarded **scholarship** of 2400£ to cover expenses for three months internship at the Tokyo University of Agriculture and Technology.
-
-
-* Award for best Master Thesis on disability, University of Rome "La Sapienza", January 2019:
-  * Awarded **best** Master Thesis on disability among a total of 15 students across all faculties at the University.
-
-
-* Programmer Award, VVV18, February 2018:
-  * Awarded **first** prize for Group Project at the VVV18 International Winter School on Humanoid Robot Programming, organised by the IIT iCub Facility and the IEEE Robotics and Automation Society.
-
-
-* Travel grant, VVV18, February 2018:
-  * Awarded **travel grant** cover for alla expenses to participate in the International Winter School on Humanoid Robot Programming.
-
-
-* Swiss-European Mobility Programme and Hes-So grant, HES-SO, Sierre, October 2016.
-  * Awarded **scholarship** of 3300CHF to cover expenses for three months internship at the HES-SO Haute école spécialisée de Suisse occidentale.
-
-
-___
-
-
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/portfolio.png?raw=true" width="48"> 
 
 ## Portfolio
 
+For a complete list of projects, see the [projects](projects) page.
 
-For a complete list of my projects, please refer to the [projects](projects) page.
-
-* Developed an online application for video animation using the algorithm first order motion model for image animation by [Aliaksandr Siarohin et al](https://github.com/AliaksandrSiarohin/first-order-model)
-
-
-___
-
-
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/025-skill.png?raw=true" width="48"> 
-
-## Technical Skills 
-
-<html>
-  <head>
-    <style>
-      * {
-        box-sizing: border-box;
-      }
-
-      .row {
-        display: flex;
-        margin-left:-5px;
-        margin-right:-5px;
-      }
-
-      .column {
-        flex: 50%;
-        padding: 5px;
-      }
-
-      table {
-        border-collapse: collapse;
-        border-spacing: 0;
-        width: 100%;
-        border: 0px solid #ddd;
-      }
-
-      th, td {
-        text-align: left;
-        padding: 16px;
-        border-style : hidden!important;
-      }
-
-      tr:nth-child(even) {
-        background-color: #DFEAFF;
-      }
-
-    </style>
-  </head>
-<body>
-
-
-<div class="row">
-  <div class="column">
-  <table border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <th>Programming Languages</th>
-        <th></th>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>PyTorch, Tensorflow, OpenCV, Pandas, Seaborn, Networkx, Matplotlib, Numpy</td>
-      </tr>
-      
-      <tr>
-        <td>C++</td>
-        <td></td>
-      </tr>
-      
-      <tr>
-        <td>C#</td>
-        <td></td>
-      </tr>
-      
-      <tr>
-        <td>Matlab</td>
-        <td></td>
-      </tr>
-      
-      <tr>
-        <td>Java</td>
-        <td></td>
-      </tr>      
-    </table>
-  </div>
-  <div class="column">
-    <table>
-      <tr>
-        <th>Programming Tools</th>
-        <th></th>
-      </tr>
-      <tr>
-        <td>Visual Studio Code</td>
-      </tr>
-      
-      <tr>
-        <td>Visual Studio</td>
-      </tr>
-      
-      <tr>
-        <td>Git</td>
-      </tr>
-      
-      <tr>
-        <td>ROS</td>
-      </tr>
-      
-      <tr>
-        <td>Unity</td>
-      </tr>
-      
-      <tr>
-        <td>Latex</td>
-      </tr>  
-      
-      <tr>
-        <td>Android Studio</td>
-      </tr>  
-    </table>
-  </div>
-</div>
-
-</body>
-</html>
+Recent examples: :contentReference[oaicite:7]{index=7}  
+- CNNs for **Alzheimer MRI** classification.  
+- Online **GAN-based video animation** using first order motion models.  
+- Convolutional **GAN** in PyTorch for handwritten digit generation.  
 
 ___
 
+## Technical Skills
 
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
+**Languages**  
+- Python (PyTorch, TensorFlow, Pandas, Numpy, OpenCV, Seaborn)  
+- C++, C#, Matlab  
 
-## Languages 
-
-
-* Italian (Native)
-* English (Advanced)
-* French (Intermediate)
-* Japanese (Basic)
-  
-  
-___
-
-
-<img src="https://github.com/francescapalermo/francescapalermo.github.io/blob/master/images/cv/001-online_resume.png?raw=true" width="48"> 
-
-
-## Publications 
-
-
-For a full list of publications, please refer to my [Google Scholar Profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
-
-Below a list of my most recents publications: 
-{% include publications %}
+**Tools and Frameworks**  
+- Google Cloud Platform (Vertex AI, Buckets)  
+- Docker, Git, Visual Studio Code  
+- Hugging Face, TensorBoard  
+- ROS, Unity  
+- TinyML for embedded model optimisation :contentReference[oaicite:8]{index=8}  
 
 ___
 
+## Languages
 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+- Italian (Native)  
+- English (Advanced)  
+- French (Intermediate)  
+- Japanese (Basic)  
+
+___
+
+## Publications
+
+For the full list, please refer to my [Google Scholar profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
+
+**Selected publications:** :contentReference[oaicite:9]{index=9}  
+- F. Palermo et al., **“Advancements in Context Recognition for Edge Devices and Smart Eyewear: Sensors and Applications”**, IEEE Access, 2025.  
+- F. Palermo et al., **“TIHM: An open dataset for remote healthcare monitoring in dementia”**, Scientific Data, 2023.  
+- F. Palermo et al., **“Designing a Clinically Applicable Deep Recurrent Model to Identify Neuropsychiatric Symptoms”**, NeurIPS R2C Workshop, 2021.  
+- F. Palermo et al., **“Implementing Tactile and Proximity Sensing for Crack Detection”**, ICRA, 2020.  
+- F. Palermo et al., **“Repeatability of grasp recognition for robotic hand prosthesis control based on sEMG data”**, ICORR, 2017.  
