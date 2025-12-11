@@ -93,11 +93,11 @@ ___
 ___
 
 ## Awards
-
+- **Best PhD Thesis**, QUeen Mary University of London (2022) - Second prize.
 - **Data Visualisation Competition**, UK Dementia Research Institute (2022) – First prize.  
 - **CORSMAL Challenge**, ICPR 2020 – First prize (team); computer vision and ML for container capacity estimation.  
 - **Japan Student Services Organization Scholarship**, TUAT (2020) – Scholarship for three-month internship.  
-- **Best Master Thesis on Disability**, University of Rome “La Sapienza” (2019).  
+- **Best Master Thesis**, University of Rome “La Sapienza” (2019).  
 - **Programmer Award**, VVV18 Winter School on Humanoid Robot Programming (2018).  
 - **Swiss-European Mobility Programme and HES-SO Grant**, HES-SO (2016).  
 
