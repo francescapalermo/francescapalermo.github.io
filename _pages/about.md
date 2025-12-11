@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 
 
 Hello! I am Francesca, a Senior Machine Learning and Computer Vision Scientist at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/), working at the intersection of computer vision, deep learning, and healthcare. My research focuses on on-device intelligence for smart eyewear, with a particular emphasis on context recognition, ego action recognition, human pose and face keypoint estimation, and SLAM for wearable devices.
 
