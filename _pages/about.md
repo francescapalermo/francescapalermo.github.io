@@ -1,40 +1,43 @@
 ---
 permalink: /
-title: "Home"
+title: "Francesca Palermo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome!  
-I am a Machine Learning and Computer Vision Scientist at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/), where I work at the intersection of Computer Vision, Deep Learning, and Embedded Software. My research focuses on advancing the intelligence and functionality of smart eyewear technologies by applying optimized deep learning and computer vision techniques for context recogntion.
+# 
 
-In this role, I supervise the Computer Vision team at Politecnico and oversee 7 ongoing projects aimed at developing innovative solutions for smart eyewear. My current focus is on researching machine learning models optimized for embedded deployment on microcontrollers, targeting context recognition for smart eyewear. I also drive efforts to identify innovative patents, having submitted 6 patents, and regularly contribute to the academic community with publications, authoring 3 research papers so far in this role.
+Hello! I am Francesca, a Senior Machine Learning and Computer Vision Scientist at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/), working at the intersection of computer vision, deep learning, and healthcare. My research focuses on on-device intelligence for smart eyewear, with a particular emphasis on context recognition, ego action recognition, human pose and face keypoint estimation, and SLAM for wearable devices.
 
-In the past, I was a Machine Learning Research Associate at Imperial College London, working for the Care Research and Technology Centre (CR&T) of the [UK Dementia Research Institute](https://ukdri.ac.uk/) (UKDRI), and a member of the [Barnaghi Lab](https://barnaghi-machine-intelligence-lab.github.io/).
+In my current role, I design and optimise computer vision and deep learning models for edge deployment and TinyML, achieving substantial model size reductions while maintaining competitive accuracy. I lead a collaboration with Politecnico di Milano, managing 4 research groups and 8 projects on smart eyewear, and I co-lead a joint project with Meta on on-device, camera-based context recognition. I also investigate biomarker extraction from RGB eye imaging on-device, including early work on non-invasive glucose monitoring and anaemia detection. I drive innovation and IP generation, with 7 patents submitted and 5 peer-reviewed publications in the computer vision and machine learning domains, and I co-organise workshops (for example ICCV, IJCNN) on smart eyewear and edge intelligence.
 
-I was awarded my Ph.D. from the [Advanced Robotics Lab](https://www.qmul.ac.uk/robotics/) and [HAIR Robotics Lab](https://hair-robotics.qmul.ac.uk/) at the School of Electronics Engineering and Computer Science, Queen Mary University of London, United Kingdom. My Ph.D. was sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), focusing on developing cutting-edge technology to solve the problem of nuclear waste.
+Previously, I was a Machine Learning Research Associate at Imperial College London, working with the Care Research and Technology Centre (CR&T) of the [UK Dementia Research Institute](https://ukdri.ac.uk/) (UKDRI) and the [Barnaghi Lab](https://tmi-lab.github.io/). There I developed deep learning models (for example LSTMs and autoencoders) for longitudinal, personalised time-series data collected in collaboration with the NHS, focusing on detecting health-related episodes in people living with dementia and improving model robustness and explainability when learning from unreliable data.
 
-During my time at Imperial College London, I specialized in detecting health-related episodes in people living with dementia by applying recurrent deep learning models to personalized data (activity, sleep, and physiological data). I also worked on surface exploration for fracture detection in extreme environments (e.g., nuclear power plants), using vision techniques such as object detection to localize cracks that were then explored with a fiber optic sensor attached to a robotic manipulator.
+I received my Ph.D. from the [Advanced Robotics Lab](https://www.qmul.ac.uk/robotics/) and the [HAIR Robotics Lab](https://hair-robotics.qmul.ac.uk/) at the School of Electronic Engineering and Computer Science, Queen Mary University of London, United Kingdom. My Ph.D., sponsored by the [National Centre of Nuclear Robotics](https://www.ncnr.org.uk/) (NCNR), focused on multi-modal robotic exploration and fracture detection in extreme environments such as nuclear facilities, combining visual object detection, tactile sensing, and robotic control.
 
-In addition to my roles at EssilorLuxottica and Imperial College, I have been involved in several other research initiatives. I contributed to the [NinaPro](http://ninapro.hevs.ch/) and [MeganePro](http://ninapro.hevs.ch/MeganePro) projects, acquiring DB6 to analyze the repeatability of sEMG classification of hand grasps. I also worked as a Computer Vision Intern at the Tokyo University of Agriculture and Technology, where I developed a multi-modal fusion model for surface fracture detection, and as a Research Assistant at HES-SO Valais-Wallis, where I applied machine learning and computer vision techniques in healthcare.
+Beyond my roles at EssilorLuxottica and Imperial College, I have contributed to several other research initiatives. I worked on the [NinaPro](http://ninapro.hevs.ch/) and [MeganePro](http://ninapro.hevs.ch/MeganePro) projects, analysing the repeatability of hand movement recognition for robotic prosthesis control using sEMG data. I developed an augmented reality environment in Unity with Microsoft HoloLens to assist amputees during arm prosthesis training, and I applied image segmentation methods to large medical imaging datasets for cancer prediction. These projects strengthened my interest in machine learning for healthcare, wearable systems, and human–robot interaction.
 
-As a Ph.D. graduate in engineering with a focus on machine learning, I possess extensive knowledge of deep learning techniques and architectures. I have worked on supervised learning, object detection, semantic and instance segmentation, and 3D reconstruction, with proficiency in Python, PyTorch, and TensorFlow.
-
+As a Ph.D. graduate in engineering with a focus on machine learning, I have extensive experience with deep learning techniques and architectures across computer vision, time-series analysis, and multimodal learning. My work spans supervised learning, object detection, segmentation, SLAM, and 3D reconstruction, as well as applications in healthcare, recommender systems, and generative models. I primarily work in Python with PyTorch, TensorFlow, OpenCV, and modern MLOps tools such as Docker and Google Cloud Platform (Vertex AI, Buckets).
 
 For further information, please refer to the [projects](projects) page.
 ---
 ### :computer: Main research:
-  - Context Recognition
+  - Computer Vision for Context Recognition
+    - Context and ego-action recognition from egocentric video  
+    - Human pose and face keypoint estimation for wearable devices  
+    - Visual SLAM and perception for embedded and edge platforms  
   - Machine learning for Healthcare
   - Image Classification
   - Object Detection
-  - Signal Processing
+  - Multimodal learning (vision, signals, and tactile or haptic sensing) 
   - Learning from Noisy Data
   - Haptic Exploration 
 
-:seedling: I am currently learning how to develop robust LLM models. On the side, I am working with Unreal Engine and modelling and animate in Blender
+
+
+:seedling: I am currently studying how to design robust visual learning models for on-device intelligence and downstream decision-making, exploring how vision and language can be integrated in real-world applications.
 
 :mailbox:You can connect here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesca-palermo-a9107a40/)
 
