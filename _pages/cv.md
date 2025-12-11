@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](https://www.dropbox.com/s/nv8glf430aotrr6/Resume_FrancescaPalermo.pdf?dl=0){: .btn .btn--primary .btn--large}
+[Download CV (PDF)](https://www.dropbox.com/scl/fi/9a6v34npqh9hdxsqffgtp/CV_PersonalePalermo.pdf?rlkey=3kykey1fd7eqoiy9s5w327vsm&st=y3igffii&dl=0){: .btn .btn--primary .btn--large}
 
 ---
 
@@ -20,7 +20,8 @@ redirect_from:
 - [Portfolio](#portfolio)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
-- [Publications](#publications
+- [Publications](#publications)
+
 ___
 
 ## Employment
@@ -31,7 +32,7 @@ ___
 - Lead collaboration with **Politecnico di Milano** and co-lead project with **Meta** on on-device, camera-based context recognition.  
 - Explore **biomarkers from RGB eye imaging**; initiate projects on non-invasive glucose monitoring and anaemia detection.  
 - Build reproducible pipelines in **Python** (PyTorch, OpenCV, Pandas) with **Docker** and **GCP** (Vertex AI, Buckets).  
-- Manage and supervise **two researchers**; drive IP and publications (7 patents submitted, 5 peer-reviewed papers; workshops at ICCV and IJCNN). :contentReference[oaicite:0]{index=0}  
+- Manage and supervise **two researchers**; drive IP and publications (7 patents submitted, 5 peer-reviewed papers; workshops at ICCV and IJCNN).  
 
 ---
 
@@ -39,12 +40,12 @@ ___
 - Developed **deep learning models** (LSTM, autoencoders) in PyTorch and TensorFlow for personalised time-series and longitudinal clinical data (NHS) to detect health-related episodes in dementia.  
 - Improved data quality by reducing missing data by 5% within weeks.  
 - Proposed methods for **explainability** and robust learning from unreliable data using **SHAP values**.  
-- Contributed to securing a **Wellcome Trust** grant for the research group. :contentReference[oaicite:1]{index=1}  
+- Contributed to securing a **Wellcome Trust** grant for the research group.  
 
 ---
 
 ### Feb 2020 – May 2020 · Computer Vision Intern, Tokyo University of Agriculture and Technology, Japan  
-- Implemented a TensorFlow **multi-modal fusion model** for object detection (Faster R-CNN, YOLO), fusing visual and tactile signals and resulting in two publications. :contentReference[oaicite:2]{index=2}  
+- Implemented a TensorFlow **multi-modal fusion model** for object detection (Faster R-CNN, YOLO), fusing visual and tactile signals and resulting in two publications.  
 
 ---
 
@@ -52,13 +53,13 @@ ___
 - Applied **machine learning** and **computer vision** to healthcare:  
   - Augmented Reality training environment (Unity, Microsoft Hololens) for amputees, using MYO IMU data.  
   - Analysis of **hand movement recognition repeatability** with sEMG and ML classification.  
-  - **Image segmentation** of >2000 CT lung and breast images for cancer pattern analysis. :contentReference[oaicite:3]{index=3}  
+  - **Image segmentation** of >2000 CT lung and breast images for cancer pattern analysis.  
 
 ---
 
 ### Oct 2016 – Jan 2017 · Machine Learning Intern, HES-SO, Switzerland  
 - Worked on the MeganePro project: acquired, preprocessed, synchronised, filtered, and classified sEMG data using **Random Forests**.  
-- Published in a rank A conference; **Runner-up Best Student Award**. :contentReference[oaicite:4]{index=4}  
+- Published in a rank A conference; **Runner-up Best Student Award**.  
 
 ___
 
@@ -71,7 +72,7 @@ ___
 - **Object detection** (Faster R-CNN, YOLO) in TensorFlow for crack localisation from video.  
 - OpenCV pipeline for crack skeleton extraction and path planning via minimum spanning trees.  
 - Implemented in **Python**, **C++**, and **ROS**; used CNNs and Random Forests for tactile and proximity sensor data.  
-- Ph.D. representative for ~20 researchers; mentored three master students; selected for **Google Get Ahead 2020**; involved in STEM outreach. :contentReference[oaicite:5]{index=5}  
+- Ph.D. representative for ~20 researchers; mentored three master students; selected for **Google Get Ahead 2020**; involved in STEM outreach.  
 
 ---
 
@@ -98,7 +99,7 @@ ___
 - **Japan Student Services Organization Scholarship**, TUAT (2020) – Scholarship for three-month internship.  
 - **Best Master Thesis on Disability**, University of Rome “La Sapienza” (2019).  
 - **Programmer Award**, VVV18 Winter School on Humanoid Robot Programming (2018).  
-- **Swiss-European Mobility Programme and HES-SO Grant**, HES-SO (2016). :contentReference[oaicite:6]{index=6}  
+- **Swiss-European Mobility Programme and HES-SO Grant**, HES-SO (2016).  
 
 ___
 
@@ -106,7 +107,7 @@ ___
 
 For a complete list of projects, see the [projects](projects) page.
 
-Recent examples: :contentReference[oaicite:7]{index=7}  
+Recent examples:  
 - CNNs for **Alzheimer MRI** classification.  
 - Online **GAN-based video animation** using first order motion models.  
 - Convolutional **GAN** in PyTorch for handwritten digit generation.  
@@ -124,7 +125,7 @@ ___
 - Docker, Git, Visual Studio Code  
 - Hugging Face, TensorBoard  
 - ROS, Unity  
-- TinyML for embedded model optimisation :contentReference[oaicite:8]{index=8}  
+- TinyML for embedded model optimisation  
 
 ___
 
@@ -141,7 +142,7 @@ ___
 
 For the full list, please refer to my [Google Scholar profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
 
-**Selected publications:** :contentReference[oaicite:9]{index=9}  
+**Selected publications:**  
 - F. Palermo et al., **“Advancements in Context Recognition for Edge Devices and Smart Eyewear: Sensors and Applications”**, IEEE Access, 2025.  
 - F. Palermo et al., **“TIHM: An open dataset for remote healthcare monitoring in dementia”**, Scientific Data, 2023.  
 - F. Palermo et al., **“Designing a Clinically Applicable Deep Recurrent Model to Identify Neuropsychiatric Symptoms”**, NeurIPS R2C Workshop, 2021.  
