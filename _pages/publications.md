@@ -6,7 +6,8 @@ author_profile: true
 rank: 4
 ---
 
-For more information, please refer to the [Projects](/projects/) page. 
+For the full list, please refer to my [Google Scholar profile](https://scholar.google.ch/citations?user=yB2o5DIAAAAJ&hl).
+
 
 Below a list of my most recents publications. 
 {% include publications %}
