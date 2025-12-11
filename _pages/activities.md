@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Events"
-permalink: /events/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
-# Events
+# Activities
 
 This page lists invited talks, workshops, conferences, outreach activities, and other academic engagements.
 
